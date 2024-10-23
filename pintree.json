@@ -1,0 +1,527 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1725066429733,
+    "title": "移动收藏夹",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1729604305906,
+        "title": "工具",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1729604379219,
+            "title": "AI",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1729640263139,
+                "title": "大模型",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729604445906,
+                    "title": "智谱清言",
+                    "icon": "https://logo.clearbit.com/chatglm.cn",
+                    "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729604450746,
+                    "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
+                    "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+                    "url": "https://xinghuo.xfyun.cn/%EF%BC%89"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729604454817,
+                    "title": "Kimi.ai - 帮你看更大的世界",
+                    "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                    "url": "https://kimi.moonshot.cn/?data_source=tracer&data_industry=ocpc_ps_convert&utm_campaign=TR_cOJnyj8y&utm_content=&utm_medium=360&utm_source=360_pc_search&utm_term=&qhclickid=6d76126da1f20519"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729604460889,
+                    "title": "腾讯元宝",
+                    "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+                    "url": "https://yuanbao.tencent.com/chat/naQivTmsDa"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729604464169,
+                    "title": "问小白 - 生活更简单",
+                    "icon": "https://logo.clearbit.com/www.wenxiaobai.com",
+                    "url": "https://www.wenxiaobai.com/chat/70"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729604468154,
+                    "title": "文心一言",
+                    "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+                    "url": "https://yiyan.baidu.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729604472945,
+                    "title": "豆包 - 字节跳动旗下 AI 智能助手",
+                    "icon": "https://logo.clearbit.com/www.doubao.com",
+                    "url": "https://www.doubao.com/chat/?channel=bing_sem&source=dbweb_bing_sem_xhs_pc_01&keywordid=274842&msclkid=f45dbffc6e691b955d2fd8ebc926872b"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729604477361,
+                    "title": "通义tongyi.ai_你的全能AI助手-通义千问",
+                    "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                    "url": "https://tongyi.aliyun.com/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1729646451767,
+            "title": "HanLP | 在线演示",
+            "icon": "https://logo.clearbit.com/hanlp.hankcs.com",
+            "url": "https://hanlp.hankcs.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729604315258,
+        "title": "信息来源",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1729604330178,
+            "title": "信息源",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1729640430235,
+                "title": "商业",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640416297,
+                    "title": "联商网-零售商业门户网站, 专业服务零售连锁业、商业地产",
+                    "icon": "https://logo.clearbit.com/www.linkshop.com",
+                    "url": "http://www.linkshop.com/"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1729640437963,
+                "title": "虎嗅网",
+                "icon": "https://logo.clearbit.com/www.huxiu.com",
+                "url": "https://www.huxiu.com/"
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640472148,
+                "title": "人工智能",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640463899,
+                    "title": "量子位 | 追踪人工智能新趋势，报道科技行业新突破",
+                    "icon": "https://logo.clearbit.com/www.qbitai.com",
+                    "url": "https://www.qbitai.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640477778,
+                    "title": "jiqizhixin.com",
+                    "icon": "https://logo.clearbit.com/www.jiqizhixin.com",
+                    "url": "https://www.jiqizhixin.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640492418,
+                    "title": "智源社区_没有围墙的人工智能实验室",
+                    "icon": "https://logo.clearbit.com/hub.baai.ac.cn",
+                    "url": "https://hub.baai.ac.cn/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640457828,
+                "title": "科技",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640452137,
+                    "title": "36氪_让一部分人先看到未来",
+                    "icon": "https://logo.clearbit.com/www.36kr.com",
+                    "url": "https://www.36kr.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640484442,
+                    "title": "雷科技 - 关注智能生活和前沿科技",
+                    "icon": "https://logo.clearbit.com/www.leikeji.com",
+                    "url": "https://www.leikeji.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640597282,
+                    "title": "IT之家",
+                    "icon": "https://logo.clearbit.com/www.ithome.com",
+                    "url": "https://www.ithome.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640612306,
+                    "title": "爱范儿 · 让未来触手可及",
+                    "icon": "https://logo.clearbit.com/www.ifanr.com",
+                    "url": "https://www.ifanr.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640511170,
+                "title": "深度阅读",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640500233,
+                    "title": "三联生活周刊-一本杂志和他倡导的生活",
+                    "icon": "https://logo.clearbit.com/www.lifeweek.com.cn",
+                    "url": "https://www.lifeweek.com.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640518737,
+                    "title": "极昼的个人主页",
+                    "icon": "https://logo.clearbit.com/mp.sohu.com",
+                    "url": "https://mp.sohu.com/profile?xpt=MWJmNTdjZjYtMTRiMi00NWI2LWE2ZDMtY2I1NmRhNTNmNDQ0&_f=index_pagemp_1"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640540402,
+                "title": "开源情报",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640527194,
+                    "title": "",
+                    "icon": "https://logo.clearbit.com/sector035.nl",
+                    "url": "https://sector035.nl/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640557465,
+                    "title": "Global Investigative Journalism Network",
+                    "icon": "https://logo.clearbit.com/gijn.org",
+                    "url": "https://gijn.org/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640563010,
+                    "title": "Public Intelligence",
+                    "icon": "https://logo.clearbit.com/publicintelligence.net",
+                    "url": "https://publicintelligence.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640565697,
+                    "title": "全球深度报道网",
+                    "icon": "https://logo.clearbit.com/zh.gijn.org",
+                    "url": "https://zh.gijn.org/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640583955,
+                "title": "数码",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640577481,
+                    "title": "少数派 - 高效工作，品质生活",
+                    "icon": "https://logo.clearbit.com/sspai.com",
+                    "url": "https://sspai.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640590154,
+                    "title": "#UNTAG - We think, We solve, We share | #UNTAG",
+                    "icon": "https://logo.clearbit.com/utgd.net",
+                    "url": "https://utgd.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640605698,
+                    "title": "数字尾巴 分享美好数字生活",
+                    "icon": "https://logo.clearbit.com/www.dgtle.com",
+                    "url": "https://www.dgtle.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640625882,
+                "title": "餐饮",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640618801,
+                    "title": "餐饮产业链一站式服务平台-餐饮老板内参【官网】",
+                    "icon": "https://logo.clearbit.com/www.watcn.com",
+                    "url": "https://www.watcn.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640638804,
+                "title": "网络安全",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640631394,
+                    "title": "安全客 - 安全资讯平台",
+                    "icon": "https://logo.clearbit.com/www.anquanke.com",
+                    "url": "https://www.anquanke.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640645946,
+                    "title": "freebuf.com",
+                    "icon": "https://logo.clearbit.com/www.freebuf.com",
+                    "url": "https://www.freebuf.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640651930,
+                    "title": "",
+                    "icon": "https://logo.clearbit.com/sec.today",
+                    "url": "https://sec.today/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640656794,
+                    "title": "安全脉搏 | 分享技术，悦享品质",
+                    "icon": "https://logo.clearbit.com/www.secpulse.com",
+                    "url": "https://www.secpulse.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640661266,
+                    "title": "动态 - 每日安全",
+                    "icon": "https://logo.clearbit.com/sec.today",
+                    "url": "https://sec.today/pulses/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640669890,
+                    "title": "知道创宇云防御-浏览器安全检查",
+                    "icon": "https://logo.clearbit.com/paper.seebug.org",
+                    "url": "https://paper.seebug.org/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729604335047,
+            "title": "数据源",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1729640263138,
+                "title": "大模型评测",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640245074,
+                    "title": "FlagEval - 首页",
+                    "icon": "https://logo.clearbit.com/flageval.baai.ac.cn",
+                    "url": "https://flageval.baai.ac.cn/#/home"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640272018,
+                    "title": "OpenCompass司南 - 评测榜单",
+                    "icon": "https://logo.clearbit.com/rank.opencompass.org.cn",
+                    "url": "https://rank.opencompass.org.cn/home"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1728914685644,
+                "title": "wiki",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1728914699037,
+                    "title": "游戏",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1728914664687,
+                        "title": "bilibili游戏中心 - WIKI",
+                        "icon": "https://logo.clearbit.com/wiki.biligame.com",
+                        "url": "https://wiki.biligame.com/wiki/%E9%A6%96%E9%A1%B5"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1728914800265,
+                        "title": "灰机wiki - 北京嘉闻杰诺网络科技有限公司",
+                        "icon": "https://logo.clearbit.com/www.huijiwiki.com",
+                        "url": "https://www.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729064481716,
+                        "title": "(64 封私信 / 93 条消息) 假如中国是欧洲文明，当时发现北美新大陆时会如何对待当地土著？ - 知乎",
+                        "icon": "https://logo.clearbit.com/www.zhihu.com",
+                        "url": "https://www.zhihu.com/question/487348297"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729604609825,
+                "title": "统计",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729604598593,
+                    "title": "国家数据",
+                    "icon": "https://logo.clearbit.com/data.stats.gov.cn",
+                    "url": "https://data.stats.gov.cn/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640338659,
+                "title": "天气",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640329658,
+                    "title": "Windy: Wind map & weather forecast",
+                    "icon": "https://logo.clearbit.com/www.windy.com",
+                    "url": "https://www.windy.com/?34.760,113.646,5"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640339906,
+                    "title": "Windy: Wind map & weather forecast",
+                    "icon": "https://logo.clearbit.com/www.windy.com",
+                    "url": "https://www.windy.com/?34.778,113.643,5"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640368172,
+                "title": "事实核查",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640356154,
+                    "title": "有据 | 国际新闻事实核查",
+                    "icon": "https://logo.clearbit.com/chinafactcheck.com",
+                    "url": "https://chinafactcheck.com/"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1729640382643,
+                    "title": "事件",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1729640376177,
+                        "title": "知微事见",
+                        "icon": "https://logo.clearbit.com/ef.zhiweidata.com",
+                        "url": "https://ef.zhiweidata.com/"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640400428,
+                "title": "报告",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640393514,
+                    "title": "镝数聚网站-权威数据 海量聚合",
+                    "icon": "https://logo.clearbit.com/www.dydata.io",
+                    "url": "https://www.dydata.io/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640686747,
+                "title": "冲突",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640678194,
+                    "title": "",
+                    "icon": "https://logo.clearbit.com/acleddata.com",
+                    "url": "https://acleddata.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640696356,
+                    "title": "Institute for the Study of War",
+                    "icon": "https://logo.clearbit.com/www.understandingwar.org",
+                    "url": "https://www.understandingwar.org/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729640929603,
+        "title": "其它",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1729640937483,
+            "title": "导航",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1729640910586,
+                "title": "信息来源",
+                "icon": "https://logo.clearbit.com/suave-tuck-504.notion.site",
+                "url": "https://suave-tuck-504.notion.site/11cecd0b0461804daaacd17d2874e695?v=11fecd0b04618008973f000c1b5d1733"
+              },
+              {
+                "type": "link",
+                "addDate": 1729640659042,
+                "title": "信息来源",
+                "icon": "https://logo.clearbit.com/www.notion.so",
+                "url": "https://www.notion.so/11cecd0b0461804daaacd17d2874e695?v=11fecd0b04618008973f000c1b5d1733"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
