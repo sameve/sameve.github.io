@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1725066429733,
-    "title": "收藏夹",
+    "title": "eve的收藏架",
     "children": [
       {
         "type": "folder",
@@ -74,6 +74,34 @@
                     "title": "通义tongyi.ai_你的全能AI助手-通义千问",
                     "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
                     "url": "https://tongyi.aliyun.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729781981718,
+                "title": "AI搜索",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729781971140,
+                    "title": "天工AI - 搜索更深度，阅读更多彩",
+                    "icon": "https://logo.clearbit.com/www.tiangong.cn",
+                    "url": "https://www.tiangong.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729782068268,
+                    "title": "秘塔AI搜索",
+                    "icon": "https://logo.clearbit.com/metaso.cn",
+                    "url": "https://metaso.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729782075916,
+                    "title": "Kimi.ai - 帮你看更大的世界",
+                    "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                    "url": "https://kimi.moonshot.cn/"
                   }
                 ]
               }
@@ -298,13 +326,6 @@
                     "title": "freebuf.com",
                     "icon": "https://logo.clearbit.com/www.freebuf.com",
                     "url": "https://www.freebuf.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729640651930,
-                    "title": "",
-                    "icon": "https://logo.clearbit.com/sec.today",
-                    "url": "https://sec.today/"
                   },
                   {
                     "type": "link",
