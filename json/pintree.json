@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1725066429733,
-    "title": "eve的收藏夹",
+    "title": "eve收藏夹",
     "children": [
       {
         "type": "folder",
@@ -102,6 +102,20 @@
                     "title": "Kimi.ai - 帮你看更大的世界",
                     "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
                     "url": "https://kimi.moonshot.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951924945,
+                    "title": "Felo - 你的免费AI智能搜索引擎",
+                    "icon": "https://logo.clearbit.com/felo.ai",
+                    "url": "https://felo.ai/search"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951965641,
+                    "title": "360AI搜索",
+                    "icon": "https://logo.clearbit.com/so.360.com",
+                    "url": "https://so.360.com/"
                   }
                 ]
               }
