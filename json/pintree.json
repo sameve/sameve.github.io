@@ -140,13 +140,6 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1729943780460,
-                    "title": "云手机",
-                    "icon": "https://logo.clearbit.com/cloud.139.com",
-                    "url": "https://cloud.139.com/#/cloudphone"
-                  },
-                  {
-                    "type": "link",
                     "addDate": 1729943786620,
                     "title": "桃心云",
                     "icon": "https://logo.clearbit.com/h5.taoxinyun.com",
@@ -159,6 +152,20 @@
                 "addDate": 1729943805286,
                 "title": "云电脑",
                 "children": []
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729951735050,
+            "title": "编程",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1729951720321,
+                "title": "GitHub",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/"
               }
             ]
           }
@@ -542,6 +549,118 @@
                     "title": "ACLED (Armed Conflict Location and Event Data)",
                     "icon": "https://logo.clearbit.com/acleddata.com",
                     "url": "https://acleddata.com/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729951225692,
+            "title": "平台",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1729951546203,
+                "title": "社交平台",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729951213226,
+                    "title": "微博 – 随时随地发现新鲜事",
+                    "icon": "https://logo.clearbit.com/weibo.com",
+                    "url": "https://weibo.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951321747,
+                    "title": "即刻",
+                    "icon": "https://logo.clearbit.com/web-next.okjike.com",
+                    "url": "https://web-next.okjike.com/following"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951329755,
+                    "title": "今日头条",
+                    "icon": "https://logo.clearbit.com/www.toutiao.com",
+                    "url": "https://www.toutiao.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951335066,
+                    "title": "豆瓣",
+                    "icon": "https://logo.clearbit.com/www.douban.com",
+                    "url": "https://www.douban.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951364850,
+                    "title": "(64 封私信 / 91 条消息) 首页 - 知乎",
+                    "icon": "https://logo.clearbit.com/www.zhihu.com",
+                    "url": "https://www.zhihu.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951377354,
+                    "title": "百度贴吧——全球领先的中文社区",
+                    "icon": "https://logo.clearbit.com/tieba.baidu.com",
+                    "url": "https://tieba.baidu.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951467602,
+                    "title": "LOFTER（乐乎） - 让兴趣，更有趣",
+                    "icon": "https://logo.clearbit.com/www.lofter.com",
+                    "url": "https://www.lofter.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729951593979,
+                "title": "RSS",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729951612877,
+                    "title": "Feedbin",
+                    "icon": "https://logo.clearbit.com/feedbin.com",
+                    "url": "https://feedbin.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951617769,
+                    "title": "Follow",
+                    "icon": "https://logo.clearbit.com/app.follow.is",
+                    "url": "https://app.follow.is/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951706337,
+                    "title": "Feedly",
+                    "icon": "https://logo.clearbit.com/feedly.com",
+                    "url": "http://feedly.com/"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1729951663042,
+                    "title": "inoreader",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1729951652490,
+                        "title": "Innoreader – Build your own newsfeed",
+                        "icon": "https://logo.clearbit.com/www.innoreader.com",
+                        "url": "https://www.innoreader.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729951673721,
+                        "title": "Inoreader – Build your own newsfeed",
+                        "icon": "https://logo.clearbit.com/www.inoreader.com",
+                        "url": "https://www.inoreader.com/"
+                      }
+                    ]
                   }
                 ]
               }
