@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1725066429733,
-    "title": "eve收藏夹",
+    "title": "eve的收藏夹",
     "children": [
       {
         "type": "folder",
@@ -113,6 +113,54 @@
             "title": "HanLP | 在线演示",
             "icon": "https://logo.clearbit.com/hanlp.hankcs.com",
             "url": "https://hanlp.hankcs.com/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1729943758591,
+            "title": "云设备",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1729943767158,
+                "title": "云手机",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729943761461,
+                    "title": "云手机极致版",
+                    "icon": "https://logo.clearbit.com/h5.cp.139.com",
+                    "url": "https://h5.cp.139.com/phone/index/main"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729943769404,
+                    "title": "云手机",
+                    "icon": "https://logo.clearbit.com/cloud.139.com",
+                    "url": "https://cloud.139.com/?channelSrc=02047#/my"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729943780460,
+                    "title": "云手机",
+                    "icon": "https://logo.clearbit.com/cloud.139.com",
+                    "url": "https://cloud.139.com/#/cloudphone"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729943786620,
+                    "title": "桃心云",
+                    "icon": "https://logo.clearbit.com/h5.taoxinyun.com",
+                    "url": "https://h5.taoxinyun.com/#/index"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729943805286,
+                "title": "云电脑",
+                "children": []
+              }
+            ]
           }
         ]
       },
