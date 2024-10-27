@@ -418,6 +418,20 @@
                     "url": "https://paper.seebug.org/"
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730028132198,
+                "title": "其它",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730028080118,
+                    "title": "NewsNow | 最热",
+                    "icon": "https://logo.clearbit.com/newsnow.busiyi.world",
+                    "url": "https://newsnow.busiyi.world/c/hottest"
+                  }
+                ]
               }
             ]
           },
