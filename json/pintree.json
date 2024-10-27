@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1725066429733,
-    "title": "eve收藏夹",
+    "title": "eve的收藏夹",
     "children": [
       {
         "type": "folder",
@@ -586,11 +586,25 @@
                     "url": "https://weibo.com/"
                   },
                   {
-                    "type": "link",
-                    "addDate": 1729951321747,
+                    "type": "folder",
+                    "addDate": 1729994032102,
                     "title": "即刻",
-                    "icon": "https://logo.clearbit.com/web-next.okjike.com",
-                    "url": "https://web-next.okjike.com/following"
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1729951321747,
+                        "title": "即刻-电脑版",
+                        "icon": "https://logo.clearbit.com/web-next.okjike.com",
+                        "url": "https://web-next.okjike.com/following"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729994084280,
+                        "title": "web.okjike.com",
+                        "icon": "https://logo.clearbit.com/web.okjike.com",
+                        "url": "https://web.okjike.com/login"
+                      }
+                    ]
                   },
                   {
                     "type": "link",
