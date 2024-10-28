@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1725066429733,
-    "title": "eve收藏夹",
+    "title": "eve的收藏夹",
     "children": [
       {
         "type": "folder",
@@ -74,6 +74,20 @@
                     "title": "通义tongyi.ai_你的全能AI助手-通义千问",
                     "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
                     "url": "https://tongyi.aliyun.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730074417225,
+                    "title": "主页 - 扣子",
+                    "icon": "https://logo.clearbit.com/www.coze.cn",
+                    "url": "https://www.coze.cn/home"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730074447240,
+                    "title": "AI助手",
+                    "icon": "https://logo.clearbit.com/bot.360.com",
+                    "url": "https://bot.360.com/"
                   }
                 ]
               },
