@@ -130,6 +130,34 @@
                     "title": "360AI搜索",
                     "icon": "https://logo.clearbit.com/so.360.com",
                     "url": "https://so.360.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730126635868,
+                    "title": "Globe Explorer",
+                    "icon": "https://logo.clearbit.com/explorer.globe.engineer",
+                    "url": "https://explorer.globe.engineer/?utm_source=ai-bot.cn"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730126700268,
+                    "title": "知乎直答",
+                    "icon": "https://logo.clearbit.com/zhida.zhihu.com",
+                    "url": "https://zhida.zhihu.com/?utm_source=ai-bot.cn"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730126782812,
+                    "title": "心流AI助手",
+                    "icon": "https://logo.clearbit.com/iflow.cn",
+                    "url": "https://iflow.cn/?utm_source=ai-bot.cn"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730127039307,
+                    "title": "问问小宇宙",
+                    "icon": "https://logo.clearbit.com/ask.xiaoyuzhoufm.com",
+                    "url": "https://ask.xiaoyuzhoufm.com/"
                   }
                 ]
               }
