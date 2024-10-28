@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1725066429733,
-    "title": "eve的收藏夹",
+    "title": "eve收藏夹",
     "children": [
       {
         "type": "folder",
@@ -668,6 +668,27 @@
                     "title": "LOFTER（乐乎） - 让兴趣，更有趣",
                     "icon": "https://logo.clearbit.com/www.lofter.com",
                     "url": "https://www.lofter.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730073749769,
+                    "title": "小红书 - 你的生活指南",
+                    "icon": "https://logo.clearbit.com/www.xiaohongshu.com",
+                    "url": "https://www.xiaohongshu.com/explore"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730073797104,
+                    "title": "精彩短视频-快手",
+                    "icon": "https://logo.clearbit.com/www.kuaishou.com",
+                    "url": "https://www.kuaishou.com/brilliant"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730073799736,
+                    "title": "抖音-记录美好生活",
+                    "icon": "https://logo.clearbit.com/www.douyin.com",
+                    "url": "https://www.douyin.com/"
                   }
                 ]
               },
