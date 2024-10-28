@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1725066429733,
-    "title": "eve的收藏夹",
+    "title": "eve收藏夹",
     "children": [
       {
         "type": "folder",
@@ -854,6 +854,13 @@
                 "url": "https://www.toolify.ai/zh/"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1730129362140,
+            "title": "Claude.asia简介 | Claude.asia使用教程",
+            "icon": "https://logo.clearbit.com/docs.claude.asia",
+            "url": "https://docs.claude.asia/"
           }
         ]
       }
