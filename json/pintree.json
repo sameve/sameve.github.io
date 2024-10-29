@@ -280,6 +280,34 @@
                 "url": "https://mail.163.com/"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730245151021,
+            "title": "稍后阅读",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730245138884,
+                "title": "Inbox | Readwise",
+                "icon": "https://logo.clearbit.com/read.readwise.io",
+                "url": "https://read.readwise.io/new"
+              },
+              {
+                "type": "link",
+                "addDate": 1730245235044,
+                "title": "剪藏 | 随时随地，随心收藏",
+                "icon": "https://logo.clearbit.com/shoucangjia.app.yinxiang.com",
+                "url": "https://shoucangjia.app.yinxiang.com/collectors/all"
+              },
+              {
+                "type": "link",
+                "addDate": 1730245357742,
+                "title": "Cubox",
+                "icon": "https://logo.clearbit.com/cubox.pro",
+                "url": "https://cubox.pro/my/inbox"
+              }
+            ]
           }
         ]
       },
