@@ -16,65 +16,9 @@
             "children": [
               {
                 "type": "folder",
-                "addDate": 1729640263139,
-                "title": "大模型",
+                "addDate": 1730207985680,
+                "title": "智能体创造平台",
                 "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1729604445906,
-                    "title": "智谱清言",
-                    "icon": "https://logo.clearbit.com/chatglm.cn",
-                    "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729604450746,
-                    "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
-                    "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
-                    "url": "https://xinghuo.xfyun.cn/%EF%BC%89"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729604454817,
-                    "title": "Kimi.ai - 帮你看更大的世界",
-                    "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
-                    "url": "https://kimi.moonshot.cn/?data_source=tracer&data_industry=ocpc_ps_convert&utm_campaign=TR_cOJnyj8y&utm_content=&utm_medium=360&utm_source=360_pc_search&utm_term=&qhclickid=6d76126da1f20519"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729604460889,
-                    "title": "腾讯元宝",
-                    "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
-                    "url": "https://yuanbao.tencent.com/chat/naQivTmsDa"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729604464169,
-                    "title": "问小白 - 生活更简单",
-                    "icon": "https://logo.clearbit.com/www.wenxiaobai.com",
-                    "url": "https://www.wenxiaobai.com/chat/70"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729604468154,
-                    "title": "文心一言",
-                    "icon": "https://logo.clearbit.com/yiyan.baidu.com",
-                    "url": "https://yiyan.baidu.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729604472945,
-                    "title": "豆包 - 字节跳动旗下 AI 智能助手",
-                    "icon": "https://logo.clearbit.com/www.doubao.com",
-                    "url": "https://www.doubao.com/chat/?channel=bing_sem&source=dbweb_bing_sem_xhs_pc_01&keywordid=274842&msclkid=f45dbffc6e691b955d2fd8ebc926872b"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729604477361,
-                    "title": "通义tongyi.ai_你的全能AI助手-通义千问",
-                    "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
-                    "url": "https://tongyi.aliyun.com/"
-                  },
                   {
                     "type": "link",
                     "addDate": 1730074417225,
@@ -84,10 +28,108 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1730074447240,
-                    "title": "AI助手",
-                    "icon": "https://logo.clearbit.com/bot.360.com",
-                    "url": "https://bot.360.com/"
+                    "addDate": 1730207903277,
+                    "title": "文心智能体平台AgentBuilder | 想象即现实",
+                    "icon": "https://logo.clearbit.com/agents.baidu.com",
+                    "url": "https://agents.baidu.com/center"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730208213150,
+                    "title": "腾讯元器",
+                    "icon": "https://logo.clearbit.com/yuanqi.tencent.com",
+                    "url": "https://yuanqi.tencent.com/agent-shop"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640263139,
+                "title": "大模型",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1730207958631,
+                    "title": "原生大模型应用",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1729604445906,
+                        "title": "智谱清言",
+                        "icon": "https://logo.clearbit.com/chatglm.cn",
+                        "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604450746,
+                        "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
+                        "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+                        "url": "https://xinghuo.xfyun.cn/%EF%BC%89"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604454817,
+                        "title": "Kimi.ai - 帮你看更大的世界",
+                        "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                        "url": "https://kimi.moonshot.cn/?data_source=tracer&data_industry=ocpc_ps_convert&utm_campaign=TR_cOJnyj8y&utm_content=&utm_medium=360&utm_source=360_pc_search&utm_term=&qhclickid=6d76126da1f20519"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604460889,
+                        "title": "腾讯元宝",
+                        "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+                        "url": "https://yuanbao.tencent.com/chat/naQivTmsDa"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604464169,
+                        "title": "问小白 - 生活更简单",
+                        "icon": "https://logo.clearbit.com/www.wenxiaobai.com",
+                        "url": "https://www.wenxiaobai.com/chat/70"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604468154,
+                        "title": "文心一言",
+                        "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+                        "url": "https://yiyan.baidu.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604472945,
+                        "title": "豆包 - 字节跳动旗下 AI 智能助手",
+                        "icon": "https://logo.clearbit.com/www.doubao.com",
+                        "url": "https://www.doubao.com/chat/?channel=bing_sem&source=dbweb_bing_sem_xhs_pc_01&keywordid=274842&msclkid=f45dbffc6e691b955d2fd8ebc926872b"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604477361,
+                        "title": "通义tongyi.ai_你的全能AI助手-通义千问",
+                        "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                        "url": "https://tongyi.aliyun.com/"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730208156812,
+                    "title": "其它",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730129362140,
+                        "title": "Claude.asia简介 | Claude.asia使用教程",
+                        "icon": "https://logo.clearbit.com/docs.claude.asia",
+                        "url": "https://docs.claude.asia/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730074447240,
+                        "title": "AI助手",
+                        "icon": "https://logo.clearbit.com/bot.360.com",
+                        "url": "https://bot.360.com/"
+                      }
+                    ]
                   }
                 ]
               },
@@ -924,13 +966,6 @@
                 "url": "https://gonglue.qinggl.com/"
               }
             ]
-          },
-          {
-            "type": "link",
-            "addDate": 1730129362140,
-            "title": "Claude.asia简介 | Claude.asia使用教程",
-            "icon": "https://logo.clearbit.com/docs.claude.asia",
-            "url": "https://docs.claude.asia/"
           }
         ]
       }
