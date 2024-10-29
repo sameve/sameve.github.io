@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1725066429733,
-    "title": "eve收藏夹",
+    "title": "eve的收藏夹",
     "children": [
       {
         "type": "folder",
@@ -222,6 +222,20 @@
                 "title": "GitHub",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730163503007,
+            "title": "邮箱",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730163491286,
+                "title": "163网易免费邮-你的专业电子邮局",
+                "icon": "https://logo.clearbit.com/mail.163.com",
+                "url": "https://mail.163.com/"
               }
             ]
           }
@@ -852,6 +866,13 @@
                 "title": "最好的AI导航站和AI工具列表 - Toolify",
                 "icon": "https://logo.clearbit.com/www.toolify.ai",
                 "url": "https://www.toolify.ai/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730163421518,
+                "title": "轻略应用（轻略加） - 在线应用工具大全",
+                "icon": "https://logo.clearbit.com/gonglue.qinggl.com",
+                "url": "https://gonglue.qinggl.com/"
               }
             ]
           },
