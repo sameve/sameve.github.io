@@ -932,6 +932,20 @@
                         "title": "哔哩哔哩漫画 - bilibili 正版漫画平台",
                         "icon": "https://logo.clearbit.com/manga.bilibili.com",
                         "url": "https://manga.bilibili.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730282798880,
+                        "title": "好国漫 - 免费漫画下拉式在线观看",
+                        "icon": "https://logo.clearbit.com/www.haoguoman.net",
+                        "url": "https://www.haoguoman.net/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730282821623,
+                        "title": "漫画大全 - 包子漫画",
+                        "icon": "https://logo.clearbit.com/www.baozimh.net",
+                        "url": "https://www.baozimh.net/category"
                       }
                     ]
                   }
