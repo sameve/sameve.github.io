@@ -976,6 +976,27 @@
                         "url": "https://sj.qq.com/"
                       }
                     ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730282563354,
+                    "title": "漫画",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730282550889,
+                        "title": "Kmoe [Kindle漫畫|Kobo漫畫|epub漫畫] [volmoe.com]",
+                        "icon": "https://logo.clearbit.com/volmoe.com",
+                        "url": "https://volmoe.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730282684856,
+                        "title": "漫自由mhx12_epub漫畫Kindle漫畫下载",
+                        "icon": "https://logo.clearbit.com/mhx12.com",
+                        "url": "https://mhx12.com/"
+                      }
+                    ]
                   }
                 ]
               },
