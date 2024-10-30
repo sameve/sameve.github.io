@@ -413,6 +413,41 @@
                 "url": "https://map.baidu.com/@12649521.59,4105848.27,12z"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730274804960,
+            "title": "笔记",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730274809518,
+                "title": "FlowUs息流官网-新一代知识管理与协同平台,在线文档笔记知识库,项目管理协作",
+                "icon": "https://logo.clearbit.com/flowus.cn",
+                "url": "https://flowus.cn/product"
+              },
+              {
+                "type": "link",
+                "addDate": 1730274824427,
+                "title": "信息来源",
+                "icon": "https://logo.clearbit.com/www.notion.so",
+                "url": "https://www.notion.so/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730274832875,
+                "title": "语雀，为每一个人提供优秀的文档和知识库工具",
+                "icon": "https://logo.clearbit.com/www.yuque.com",
+                "url": "https://www.yuque.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730274916540,
+                "title": "Verse - 面向未来的智能化生产力工具",
+                "icon": "https://logo.clearbit.com/verse-cdn.yinxiang.com",
+                "url": "https://verse-cdn.yinxiang.com/product/v/verse/index.html"
+              }
+            ]
           }
         ]
       },
@@ -920,6 +955,13 @@
                     "title": "同程旅行_旅游_旅游线路_旅行_出国旅游_自驾游_周边游_旅游网站",
                     "icon": "https://logo.clearbit.com/www.ly.com",
                     "url": "https://www.ly.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730274760987,
+                    "title": "未命名页面",
+                    "icon": "https://logo.clearbit.com/flowus.cn",
+                    "url": "https://flowus.cn/52b60ed1-4f16-492d-91a2-20e6d45e82ad"
                   }
                 ]
               }
