@@ -264,6 +264,13 @@
                 "title": "GitHub",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730266479772,
+                "title": "Vercel: Build and deploy the best web experiences with the Frontend Cloud",
+                "icon": "https://logo.clearbit.com/vercel.com",
+                "url": "https://vercel.com/"
               }
             ]
           },
@@ -376,6 +383,34 @@
                     ]
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730266311685,
+            "title": "地图",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730266299341,
+                "title": "高德地图",
+                "icon": "https://logo.clearbit.com/ditu.amap.com",
+                "url": "https://ditu.amap.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730266314380,
+                "title": "腾讯地图",
+                "icon": "https://logo.clearbit.com/map.qq.com",
+                "url": "https://map.qq.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730266317820,
+                "title": "百度地图",
+                "icon": "https://logo.clearbit.com/map.baidu.com",
+                "url": "https://map.baidu.com/@12649521.59,4105848.27,12z"
               }
             ]
           }
@@ -628,6 +663,20 @@
                     "url": "https://newsnow.busiyi.world/c/hottest"
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730266284862,
+                "title": "点评",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730266243324,
+                    "title": "dianping.com",
+                    "icon": "https://logo.clearbit.com/www.dianping.com",
+                    "url": "https://www.dianping.com/"
+                  }
+                ]
               }
             ]
           },
@@ -845,6 +894,20 @@
                     ]
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730266354837,
+                "title": "旅游",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730266338876,
+                    "title": "旅游攻略,自由行,自助游攻略,旅游社交分享网站 - 马蜂窝",
+                    "icon": "https://logo.clearbit.com/www.mafengwo.cn",
+                    "url": "https://www.mafengwo.cn/"
+                  }
+                ]
               }
             ]
           },
@@ -1015,6 +1078,41 @@
                 "url": "https://gonglue.qinggl.com/"
               }
             ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1730266080046,
+        "title": "购物",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1730266059405,
+            "title": "交易猫_手游交易平台_账号估值|手机游戏充值|网游|首充号|账号|装备交易网站",
+            "icon": "https://logo.clearbit.com/www.jiaoyimao.com",
+            "url": "https://www.jiaoyimao.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730266082813,
+            "title": "闲鱼 - 闲不住？上闲鱼！",
+            "icon": "https://logo.clearbit.com/www.goofish.com",
+            "url": "https://www.goofish.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730266083756,
+            "title": "京东 - 商品搜索 - 京东热卖",
+            "icon": "https://logo.clearbit.com/re.jd.com",
+            "url": "https://re.jd.com/search?keyword=%e4%ba%ac%e4%b8%9c&keywordid=172887082207&re_dcp=202m0QjIIg==&traffic_source=1004&enc=utf8&cu=true&utm_source=baidu-search&utm_medium=cpc&utm_campaign=t_262767352_baidusearch&utm_term=172887082207_0_58d28709fd2446c288b8f01ca482bfd8"
+          },
+          {
+            "type": "link",
+            "addDate": 1730266084956,
+            "title": "粮油米面_淘宝搜索",
+            "icon": "https://logo.clearbit.com/uland.taobao.com",
+            "url": "https://uland.taobao.com/sem/tbsearch?clk1=0da7dc69c0070e1e5f7499c2ecd1011e&keyword=%E7%B2%AE%E6%B2%B9%E7%B1%B3%E9%9D%A2&localImgKey=&page=1&q=%E7%B2%AE%E6%B2%B9%E7%B1%B3%E9%9D%A2&refpid=mm_2898300158_3078300397_115665800437&tab=all&upsId=0da7dc69c0070e1e5f7499c2ecd1011e"
           }
         ]
       }
