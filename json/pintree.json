@@ -304,6 +304,20 @@
                         "url": "https://www.chinaso.com/"
                       }
                     ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730286070579,
+                    "title": "社交媒体",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730286055737,
+                        "title": "Social Searcher - Free Social Media Search Engine",
+                        "icon": "https://logo.clearbit.com/www.social-searcher.com",
+                        "url": "https://www.social-searcher.com/"
+                      }
+                    ]
                   }
                 ]
               }
