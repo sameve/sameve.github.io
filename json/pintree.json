@@ -308,6 +308,27 @@
                 "url": "https://cubox.pro/my/inbox"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730258460277,
+            "title": "RSS",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1730258468480,
+                "title": "RSS源生成",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730258441917,
+                    "title": "RSS Anything",
+                    "icon": "https://logo.clearbit.com/rss.diffbot.com",
+                    "url": "https://rss.diffbot.com/"
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
