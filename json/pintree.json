@@ -712,6 +712,41 @@
                     "url": "https://www.dianping.com/"
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730283248134,
+                "title": "游戏-信息源",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730283233469,
+                    "title": "热门网络游戏综合讨论区 - 3DMGAME论坛 - Powered by Discuz!",
+                    "icon": "https://logo.clearbit.com/bbs.3dmgame.com",
+                    "url": "https://bbs.3dmgame.com/forum-135-1.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730283339612,
+                    "title": "NGA玩家社区 - NGA.CN",
+                    "icon": "https://logo.clearbit.com/nga.cn",
+                    "url": "https://nga.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730283384027,
+                    "title": "游民星空 - 大型单机游戏门户 提供特色单机游戏资讯、下载",
+                    "icon": "https://logo.clearbit.com/www.gamersky.com",
+                    "url": "https://www.gamersky.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730283407772,
+                    "title": "单机游戏_单机游戏下载_单机游戏门户_游侠网",
+                    "icon": "https://logo.clearbit.com/www.ali213.net",
+                    "url": "https://www.ali213.net/"
+                  }
+                ]
               }
             ]
           },
@@ -1039,6 +1074,20 @@
                     "title": "【去哪儿网】机票查询,特价机票,打折飞机票-去哪儿网Qunar.com",
                     "icon": "https://logo.clearbit.com/flight.qunar.com",
                     "url": "https://flight.qunar.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730283313119,
+                "title": "游戏-数据源",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730283333212,
+                    "title": "TapTap - 官方论坛 - TapTap",
+                    "icon": "https://logo.clearbit.com/www.taptap.cn",
+                    "url": "https://www.taptap.cn/app/187168/topic"
                   }
                 ]
               }
