@@ -84,22 +84,43 @@
                   },
                   {
                     "type": "folder",
-                    "addDate": 1730208156812,
-                    "title": "其它",
+                    "addDate": 1730360652692,
+                    "title": "大模型聚合平台",
                     "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1730129362140,
-                        "title": "Claude.asia简介 | Claude.asia使用教程",
-                        "icon": "https://logo.clearbit.com/docs.claude.asia",
-                        "url": "https://docs.claude.asia/"
-                      },
                       {
                         "type": "link",
                         "addDate": 1730074447240,
                         "title": "AI助手",
                         "icon": "https://logo.clearbit.com/bot.360.com",
                         "url": "https://bot.360.com/"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730208156812,
+                    "title": "其它",
+                    "children": [
+                      {
+                        "type": "folder",
+                        "addDate": 1730360636550,
+                        "title": "claude镜像",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1730129362140,
+                            "title": "Claude.asia简介 | Claude.asia使用教程",
+                            "icon": "https://logo.clearbit.com/docs.claude.asia",
+                            "url": "https://docs.claude.asia/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730360597613,
+                            "title": "Claude",
+                            "icon": "https://logo.clearbit.com/claude-opus.top",
+                            "url": "https://claude-opus.top/list"
+                          }
+                        ]
                       }
                     ]
                   }
