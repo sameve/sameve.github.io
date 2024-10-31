@@ -1074,6 +1074,34 @@
                         "url": "https://www.baozimh.net/category"
                       }
                     ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730365368868,
+                    "title": "动漫",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730365414780,
+                        "title": "OMOFun动漫-O站",
+                        "icon": "https://logo.clearbit.com/www.omofuns.cc",
+                        "url": "https://www.omofuns.cc/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730365485021,
+                        "title": "囧次元动漫－全网最新动漫资源－专注动漫的门户网站－樱花动漫",
+                        "icon": "https://logo.clearbit.com/9ciyuan.com",
+                        "url": "https://9ciyuan.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730365555429,
+                        "title": "番剧 - 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+                        "icon": "https://logo.clearbit.com/www.bilibili.com",
+                        "url": "https://www.bilibili.com/anime/?spm_id_from=333.1007.0.0"
+                      }
+                    ]
                   }
                 ]
               },
@@ -1179,6 +1207,20 @@
                     "title": "TapTap - 官方论坛 - TapTap",
                     "icon": "https://logo.clearbit.com/www.taptap.cn",
                     "url": "https://www.taptap.cn/app/187168/topic"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730365062807,
+                "title": "地震",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730365048629,
+                    "title": "中国地震台网——首页",
+                    "icon": "https://logo.clearbit.com/news.ceic.ac.cn",
+                    "url": "https://news.ceic.ac.cn/"
                   }
                 ]
               }
