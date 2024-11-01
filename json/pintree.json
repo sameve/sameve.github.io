@@ -121,6 +121,13 @@
                             "url": "https://claude-opus.top/list"
                           }
                         ]
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730444627278,
+                        "title": "ChatGPT",
+                        "icon": "https://logo.clearbit.com/new.chatgpt-plus.top",
+                        "url": "https://new.chatgpt-plus.top/list/#/"
                       }
                     ]
                   }
