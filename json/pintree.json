@@ -346,6 +346,20 @@
                         "url": "https://www.social-searcher.com/"
                       }
                     ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730471210461,
+                    "title": "小说",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730471184948,
+                        "title": "502book - 免费小说搜索引擎",
+                        "icon": "https://logo.clearbit.com/502book.com",
+                        "url": "https://502book.com/"
+                      }
+                    ]
                   }
                 ]
               }
@@ -799,20 +813,6 @@
               },
               {
                 "type": "folder",
-                "addDate": 1730266284862,
-                "title": "点评",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1730266243324,
-                    "title": "dianping.com",
-                    "icon": "https://logo.clearbit.com/www.dianping.com",
-                    "url": "https://www.dianping.com/"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
                 "addDate": 1730283248134,
                 "title": "游戏-信息源",
                 "children": [
@@ -927,6 +927,27 @@
                     "title": "国家数据",
                     "icon": "https://logo.clearbit.com/data.stats.gov.cn",
                     "url": "https://data.stats.gov.cn/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730266284862,
+                "title": "点评",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730266243324,
+                    "title": "dianping.com",
+                    "icon": "https://logo.clearbit.com/www.dianping.com",
+                    "url": "https://www.dianping.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730471480100,
+                    "title": "首页 - 推书君",
+                    "icon": "https://logo.clearbit.com/www.tuishujun.com",
+                    "url": "https://www.tuishujun.com/"
                   }
                 ]
               },
@@ -1081,6 +1102,13 @@
                                 "title": "铅笔小说_最值得书友收藏的网络小说阅读网",
                                 "icon": "https://logo.clearbit.com/www.23qb.com",
                                 "url": "https://www.23qb.com/"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1730470323948,
+                                "title": "聚小说-笔趣阁-小说网-全网唯一聚合书源平台",
+                                "icon": "https://logo.clearbit.com/www.juxiaoshuo.net",
+                                "url": "https://www.juxiaoshuo.net/"
                               }
                             ]
                           }
