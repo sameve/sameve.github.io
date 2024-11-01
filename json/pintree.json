@@ -414,20 +414,6 @@
             "children": [
               {
                 "type": "folder",
-                "addDate": 1730258468480,
-                "title": "RSS源生成",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1730258441917,
-                    "title": "RSS Anything",
-                    "icon": "https://logo.clearbit.com/rss.diffbot.com",
-                    "url": "https://rss.diffbot.com/"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
                 "addDate": 1730258580676,
                 "title": "RSS在线服务",
                 "children": [
@@ -472,6 +458,20 @@
                         "url": "https://www.inoreader.com/"
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730258468480,
+                "title": "RSS源生成",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730258441917,
+                    "title": "RSS Anything",
+                    "icon": "https://logo.clearbit.com/rss.diffbot.com",
+                    "url": "https://rss.diffbot.com/"
                   }
                 ]
               }
@@ -1342,6 +1342,69 @@
                 "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
                 "icon": "https://logo.clearbit.com/www.bilibili.com",
                 "url": "https://www.bilibili.com/?spm_id_from=333.976.0.0"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730420749480,
+            "title": "网络安全",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1730424353222,
+                "title": "社区",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730424333150,
+                    "title": "广场 - 发现更有料的网安圈",
+                    "icon": "https://logo.clearbit.com/wiki.freebuf.com",
+                    "url": "https://wiki.freebuf.com/page"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730420769119,
+                "title": "SRC",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730420716528,
+                    "title": "HackerOne | #1 Trusted Security Platform and Hacker Program",
+                    "icon": "https://logo.clearbit.com/www.hackerone.com",
+                    "url": "https://www.hackerone.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730420772798,
+                    "title": "补天 - 企业和白帽子共赢的漏洞响应平台，帮助企业建立SRC",
+                    "icon": "https://logo.clearbit.com/www.butian.net",
+                    "url": "https://www.butian.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730420776445,
+                    "title": "360众测平台",
+                    "icon": "https://logo.clearbit.com/zhongce.360.net",
+                    "url": "https://zhongce.360.net/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730421114766,
+            "title": "其它",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730421103933,
+                "title": "知识星球 | 深度连接铁杆粉丝，运营高品质社群，知识变现的工具",
+                "icon": "https://logo.clearbit.com/www.zsxq.com",
+                "url": "https://www.zsxq.com/"
               }
             ]
           }
