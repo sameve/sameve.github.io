@@ -1018,32 +1018,73 @@
                     "title": "书籍",
                     "children": [
                       {
-                        "type": "link",
-                        "addDate": 1730087856465,
-                        "title": "铅笔小说_最值得书友收藏的网络小说阅读网",
-                        "icon": "https://logo.clearbit.com/www.23qb.com",
-                        "url": "https://www.23qb.com/"
+                        "type": "folder",
+                        "addDate": 1730448422750,
+                        "title": "官方",
+                        "children": [
+                          {
+                            "type": "folder",
+                            "addDate": 1730448469719,
+                            "title": "通用",
+                            "children": [
+                              {
+                                "type": "link",
+                                "addDate": 1730277132859,
+                                "title": "微信读书",
+                                "icon": "https://logo.clearbit.com/weread.qq.com",
+                                "url": "https://weread.qq.com/"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "folder",
+                            "addDate": 1730448438758,
+                            "title": "小说",
+                            "children": [
+                              {
+                                "type": "link",
+                                "addDate": 1730276953275,
+                                "title": "小说,番茄小说网_好看的小说尽在番茄小说官网",
+                                "icon": "https://logo.clearbit.com/fanqienovel.com",
+                                "url": "https://fanqienovel.com/"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1730276966291,
+                                "title": "小说作品在线阅读_起点全部小说大全-起点中文网",
+                                "icon": "https://logo.clearbit.com/www.qidian.com",
+                                "url": "https://www.qidian.com/all/"
+                              }
+                            ]
+                          }
+                        ]
                       },
                       {
-                        "type": "link",
-                        "addDate": 1730276953275,
-                        "title": "小说,番茄小说网_好看的小说尽在番茄小说官网",
-                        "icon": "https://logo.clearbit.com/fanqienovel.com",
-                        "url": "https://fanqienovel.com/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1730276966291,
-                        "title": "小说作品在线阅读_起点全部小说大全-起点中文网",
-                        "icon": "https://logo.clearbit.com/www.qidian.com",
-                        "url": "https://www.qidian.com/all/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1730277132859,
-                        "title": "微信读书",
-                        "icon": "https://logo.clearbit.com/weread.qq.com",
-                        "url": "https://weread.qq.com/"
+                        "type": "folder",
+                        "addDate": 1730448430393,
+                        "title": "第三方",
+                        "children": [
+                          {
+                            "type": "folder",
+                            "addDate": 1730448494919,
+                            "title": "通用",
+                            "children": []
+                          },
+                          {
+                            "type": "folder",
+                            "addDate": 1730448499104,
+                            "title": "小说",
+                            "children": [
+                              {
+                                "type": "link",
+                                "addDate": 1730087856465,
+                                "title": "铅笔小说_最值得书友收藏的网络小说阅读网",
+                                "icon": "https://logo.clearbit.com/www.23qb.com",
+                                "url": "https://www.23qb.com/"
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   },
@@ -1053,32 +1094,53 @@
                     "title": "漫画",
                     "children": [
                       {
-                        "type": "link",
-                        "addDate": 1730277006948,
-                        "title": "动漫 - 腾讯动漫官方网站 - 首页",
-                        "icon": "https://logo.clearbit.com/ac.qq.com",
-                        "url": "https://ac.qq.com/"
+                        "type": "folder",
+                        "addDate": 1730448522079,
+                        "title": "官方",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1730277006948,
+                            "title": "动漫 - 腾讯动漫官方网站 - 首页",
+                            "icon": "https://logo.clearbit.com/ac.qq.com",
+                            "url": "https://ac.qq.com/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730277054163,
+                            "title": "哔哩哔哩漫画 - bilibili 正版漫画平台",
+                            "icon": "https://logo.clearbit.com/manga.bilibili.com",
+                            "url": "https://manga.bilibili.com/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730449149213,
+                            "title": "baidu.com/link?url=mmqSuaDcwITKOh-GbzD-SeC-WVJKuEMb7WdSilpDIl_&wd=动漫之家&issp=1&f=8&ie=utf-8&rqlang=cn&tn=baiduhome_pg&inputT=2244",
+                            "icon": "https://logo.clearbit.com/www.baidu.com",
+                            "url": "https://www.baidu.com/link?url=mmqSuaDcwITKOh-GbzD-SeC-WVJKuEMb7WdSilpDIl_&wd=%E5%8A%A8%E6%BC%AB%E4%B9%8B%E5%AE%B6&issp=1&f=8&ie=utf-8&rqlang=cn&tn=baiduhome_pg&inputT=2244"
+                          }
+                        ]
                       },
                       {
-                        "type": "link",
-                        "addDate": 1730277054163,
-                        "title": "哔哩哔哩漫画 - bilibili 正版漫画平台",
-                        "icon": "https://logo.clearbit.com/manga.bilibili.com",
-                        "url": "https://manga.bilibili.com/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1730282798880,
-                        "title": "好国漫 - 免费漫画下拉式在线观看",
-                        "icon": "https://logo.clearbit.com/www.haoguoman.net",
-                        "url": "https://www.haoguoman.net/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1730282821623,
-                        "title": "漫画大全 - 包子漫画",
-                        "icon": "https://logo.clearbit.com/www.baozimh.net",
-                        "url": "https://www.baozimh.net/category"
+                        "type": "folder",
+                        "addDate": 1730448526775,
+                        "title": "第三方",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1730282821623,
+                            "title": "漫画大全 - 包子漫画",
+                            "icon": "https://logo.clearbit.com/www.baozimh.net",
+                            "url": "https://www.baozimh.net/category"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730282798880,
+                            "title": "好国漫 - 免费漫画下拉式在线观看",
+                            "icon": "https://logo.clearbit.com/www.haoguoman.net",
+                            "url": "https://www.haoguoman.net/"
+                          }
+                        ]
                       }
                     ]
                   },
