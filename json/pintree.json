@@ -1334,6 +1334,20 @@
                     "url": "https://news.ceic.ac.cn/"
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730453729033,
+                "title": "网站流量",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730453706759,
+                    "title": "Similarweb PRO",
+                    "icon": "https://logo.clearbit.com/pro.similarweb.com",
+                    "url": "https://pro.similarweb.com/"
+                  }
+                ]
               }
             ]
           }
