@@ -353,6 +353,20 @@
                         "url": "https://502book.com/"
                       }
                     ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730551980538,
+                    "title": "漫画",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730552094546,
+                        "title": "搜漫_一站式漫画搜索引擎",
+                        "icon": "https://logo.clearbit.com/www.hisoman.com",
+                        "url": "https://www.hisoman.com/"
+                      }
+                    ]
                   }
                 ]
               }
