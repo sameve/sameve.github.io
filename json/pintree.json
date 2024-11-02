@@ -560,6 +560,20 @@
                 "url": "https://verse-cdn.yinxiang.com/product/v/verse/index.html"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730511730759,
+            "title": "工具集",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730511716547,
+                "title": "新标签页",
+                "icon": "https://logo.clearbit.com/go.itab.link",
+                "url": "https://go.itab.link/#"
+              }
+            ]
           }
         ]
       },
