@@ -164,13 +164,6 @@
             ]
           },
           {
-            "type": "link",
-            "addDate": 1729646451767,
-            "title": "HanLP | 在线演示",
-            "icon": "https://logo.clearbit.com/hanlp.hankcs.com",
-            "url": "https://hanlp.hankcs.com/"
-          },
-          {
             "type": "folder",
             "addDate": 1729943758591,
             "title": "云设备",
@@ -397,6 +390,13 @@
                 "title": "163网易免费邮-你的专业电子邮局",
                 "icon": "https://logo.clearbit.com/mail.163.com",
                 "url": "https://mail.163.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730524883290,
+                "title": "QQ邮箱",
+                "icon": "https://logo.clearbit.com/wx.mail.qq.com",
+                "url": "http://wx.mail.qq.com/"
               }
             ]
           },
@@ -574,6 +574,27 @@
                 "url": "https://go.itab.link/#"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730523284328,
+            "title": "自然语言处理",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1729646451767,
+                "title": "HanLP | 在线演示",
+                "icon": "https://logo.clearbit.com/hanlp.hankcs.com",
+                "url": "https://hanlp.hankcs.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730524277717,
+                "title": "Explore | Fandom",
+                "icon": "https://logo.clearbit.com/www.fandom.com",
+                "url": "https://www.fandom.com/explore-zh?uselang=zh"
+              }
+            ]
           }
         ]
       },
@@ -594,19 +615,19 @@
                 "children": [
                   {
                     "type": "link",
+                    "addDate": 1729640437963,
+                    "title": "虎嗅网",
+                    "icon": "https://logo.clearbit.com/www.huxiu.com",
+                    "url": "https://www.huxiu.com/"
+                  },
+                  {
+                    "type": "link",
                     "addDate": 1729640416297,
                     "title": "联商网-零售商业门户网站, 专业服务零售连锁业、商业地产",
                     "icon": "https://logo.clearbit.com/www.linkshop.com",
                     "url": "http://www.linkshop.com/"
                   }
                 ]
-              },
-              {
-                "type": "link",
-                "addDate": 1729640437963,
-                "title": "虎嗅网",
-                "icon": "https://logo.clearbit.com/www.huxiu.com",
-                "url": "https://www.huxiu.com/"
               },
               {
                 "type": "folder",
