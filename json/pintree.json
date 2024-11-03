@@ -1530,6 +1530,20 @@
                     "url": "https://news.ceic.ac.cn/"
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730609786867,
+                "title": "应用",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730609761281,
+                    "title": "小众软件 - 分享免费、小巧、实用、有趣、绿色的软件",
+                    "icon": "https://logo.clearbit.com/www.appinn.com",
+                    "url": "https://www.appinn.com/"
+                  }
+                ]
               }
             ]
           }
