@@ -1,0 +1,1764 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1725066429733,
+    "title": "移动收藏夹",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1729604305906,
+        "title": "工具",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1729604379219,
+            "title": "AI",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1729640263139,
+                "title": "大模型",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1730207958631,
+                    "title": "原生大模型应用",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1729604445906,
+                        "title": "智谱清言",
+                        "icon": "https://logo.clearbit.com/chatglm.cn",
+                        "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604450746,
+                        "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
+                        "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+                        "url": "https://xinghuo.xfyun.cn/%EF%BC%89"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604454817,
+                        "title": "Kimi.ai - 帮你看更大的世界",
+                        "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                        "url": "https://kimi.moonshot.cn/?data_source=tracer&data_industry=ocpc_ps_convert&utm_campaign=TR_cOJnyj8y&utm_content=&utm_medium=360&utm_source=360_pc_search&utm_term=&qhclickid=6d76126da1f20519"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604460889,
+                        "title": "腾讯元宝",
+                        "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+                        "url": "https://yuanbao.tencent.com/chat/naQivTmsDa"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604464169,
+                        "title": "问小白 - 生活更简单",
+                        "icon": "https://logo.clearbit.com/www.wenxiaobai.com",
+                        "url": "https://www.wenxiaobai.com/chat/70"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604468154,
+                        "title": "文心一言",
+                        "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+                        "url": "https://yiyan.baidu.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604472945,
+                        "title": "豆包 - 字节跳动旗下 AI 智能助手",
+                        "icon": "https://logo.clearbit.com/www.doubao.com",
+                        "url": "https://www.doubao.com/chat/?channel=bing_sem&source=dbweb_bing_sem_xhs_pc_01&keywordid=274842&msclkid=f45dbffc6e691b955d2fd8ebc926872b"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729604477361,
+                        "title": "通义tongyi.ai_你的全能AI助手-通义千问",
+                        "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                        "url": "https://tongyi.aliyun.com/"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730360652692,
+                    "title": "大模型聚合平台",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730074447240,
+                        "title": "AI助手",
+                        "icon": "https://logo.clearbit.com/bot.360.com",
+                        "url": "https://bot.360.com/"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730208156812,
+                    "title": "其它",
+                    "children": [
+                      {
+                        "type": "folder",
+                        "addDate": 1730360636550,
+                        "title": "claude镜像",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1730129362140,
+                            "title": "Claude.asia简介 | Claude.asia使用教程",
+                            "icon": "https://logo.clearbit.com/docs.claude.asia",
+                            "url": "https://docs.claude.asia/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730360597613,
+                            "title": "Claude",
+                            "icon": "https://logo.clearbit.com/claude-opus.top",
+                            "url": "https://claude-opus.top/list"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730444627278,
+                        "title": "ChatGPT",
+                        "icon": "https://logo.clearbit.com/new.chatgpt-plus.top",
+                        "url": "https://new.chatgpt-plus.top/list/#/"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730207985680,
+                "title": "智能体创造平台",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730074417225,
+                    "title": "主页 - 扣子",
+                    "icon": "https://logo.clearbit.com/www.coze.cn",
+                    "url": "https://www.coze.cn/home"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730207903277,
+                    "title": "文心智能体平台AgentBuilder | 想象即现实",
+                    "icon": "https://logo.clearbit.com/agents.baidu.com",
+                    "url": "https://agents.baidu.com/center"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730208213150,
+                    "title": "腾讯元器",
+                    "icon": "https://logo.clearbit.com/yuanqi.tencent.com",
+                    "url": "https://yuanqi.tencent.com/agent-shop"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729943758591,
+            "title": "云设备",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1729943767158,
+                "title": "云手机",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729943761461,
+                    "title": "云手机极致版",
+                    "icon": "https://logo.clearbit.com/h5.cp.139.com",
+                    "url": "https://h5.cp.139.com/phone/index/main"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729943769404,
+                    "title": "云手机",
+                    "icon": "https://logo.clearbit.com/cloud.139.com",
+                    "url": "https://cloud.139.com/?channelSrc=02047#/my"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729943786620,
+                    "title": "桃心云",
+                    "icon": "https://logo.clearbit.com/h5.taoxinyun.com",
+                    "url": "https://h5.taoxinyun.com/#/index"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729943805286,
+                "title": "云电脑",
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730284873332,
+            "title": "搜索",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1729781981718,
+                "title": "AI搜索",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729781971140,
+                    "title": "天工AI - 搜索更深度，阅读更多彩",
+                    "icon": "https://logo.clearbit.com/www.tiangong.cn",
+                    "url": "https://www.tiangong.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729782068268,
+                    "title": "秘塔AI搜索",
+                    "icon": "https://logo.clearbit.com/metaso.cn",
+                    "url": "https://metaso.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729782075916,
+                    "title": "Kimi.ai - 帮你看更大的世界",
+                    "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                    "url": "https://kimi.moonshot.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951924945,
+                    "title": "Felo - 你的免费AI智能搜索引擎",
+                    "icon": "https://logo.clearbit.com/felo.ai",
+                    "url": "https://felo.ai/search"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951965641,
+                    "title": "360AI搜索",
+                    "icon": "https://logo.clearbit.com/so.360.com",
+                    "url": "https://so.360.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730126635868,
+                    "title": "Globe Explorer",
+                    "icon": "https://logo.clearbit.com/explorer.globe.engineer",
+                    "url": "https://explorer.globe.engineer/?utm_source=ai-bot.cn"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730126700268,
+                    "title": "知乎直答",
+                    "icon": "https://logo.clearbit.com/zhida.zhihu.com",
+                    "url": "https://zhida.zhihu.com/?utm_source=ai-bot.cn"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730126782812,
+                    "title": "心流AI助手",
+                    "icon": "https://logo.clearbit.com/iflow.cn",
+                    "url": "https://iflow.cn/?utm_source=ai-bot.cn"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730127039307,
+                    "title": "问问小宇宙",
+                    "icon": "https://logo.clearbit.com/ask.xiaoyuzhoufm.com",
+                    "url": "https://ask.xiaoyuzhoufm.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730284906125,
+                "title": "通用搜索引擎",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730284947660,
+                    "title": "百度一下，你就知道",
+                    "icon": "https://logo.clearbit.com/www.baidu.com",
+                    "url": "https://www.baidu.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730285065877,
+                    "title": "头条搜索",
+                    "icon": "https://logo.clearbit.com/so.toutiao.com",
+                    "url": "https://so.toutiao.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730285093301,
+                    "title": "Google",
+                    "icon": "https://logo.clearbit.com/www.google.com",
+                    "url": "http://www.google.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730284920237,
+                "title": "垂直搜索引擎",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1730284886413,
+                    "title": "新闻",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730284715981,
+                        "title": "中国搜索-国家权威搜索引擎",
+                        "icon": "https://logo.clearbit.com/www.chinaso.com",
+                        "url": "https://www.chinaso.com/"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730286070579,
+                    "title": "社交媒体",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730286055737,
+                        "title": "Social Searcher - Free Social Media Search Engine",
+                        "icon": "https://logo.clearbit.com/www.social-searcher.com",
+                        "url": "https://www.social-searcher.com/"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730471210461,
+                    "title": "小说",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730471184948,
+                        "title": "502book - 免费小说搜索引擎",
+                        "icon": "https://logo.clearbit.com/502book.com",
+                        "url": "https://502book.com/"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730551980538,
+                    "title": "漫画",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730552094546,
+                        "title": "搜漫_一站式漫画搜索引擎",
+                        "icon": "https://logo.clearbit.com/www.hisoman.com",
+                        "url": "https://www.hisoman.com/"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729951735050,
+            "title": "编程",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1729951720321,
+                "title": "GitHub",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730266479772,
+                "title": "Vercel: Build and deploy the best web experiences with the Frontend Cloud",
+                "icon": "https://logo.clearbit.com/vercel.com",
+                "url": "https://vercel.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730163503007,
+            "title": "邮箱",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730163491286,
+                "title": "163网易免费邮-你的专业电子邮局",
+                "icon": "https://logo.clearbit.com/mail.163.com",
+                "url": "https://mail.163.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730524883290,
+                "title": "QQ邮箱",
+                "icon": "https://logo.clearbit.com/wx.mail.qq.com",
+                "url": "http://wx.mail.qq.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730245151021,
+            "title": "稍后阅读",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730245138884,
+                "title": "Inbox | Readwise",
+                "icon": "https://logo.clearbit.com/read.readwise.io",
+                "url": "https://read.readwise.io/new"
+              },
+              {
+                "type": "link",
+                "addDate": 1730245235044,
+                "title": "剪藏 | 随时随地，随心收藏",
+                "icon": "https://logo.clearbit.com/shoucangjia.app.yinxiang.com",
+                "url": "https://shoucangjia.app.yinxiang.com/collectors/all"
+              },
+              {
+                "type": "link",
+                "addDate": 1730245357742,
+                "title": "Cubox",
+                "icon": "https://logo.clearbit.com/cubox.pro",
+                "url": "https://cubox.pro/my/inbox"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730258460277,
+            "title": "RSS",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1730258580676,
+                "title": "RSS在线服务",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729951612877,
+                    "title": "Feedbin",
+                    "icon": "https://logo.clearbit.com/feedbin.com",
+                    "url": "https://feedbin.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951617769,
+                    "title": "Follow",
+                    "icon": "https://logo.clearbit.com/app.follow.is",
+                    "url": "https://app.follow.is/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729951706337,
+                    "title": "Feedly",
+                    "icon": "https://logo.clearbit.com/feedly.com",
+                    "url": "http://feedly.com/"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1729951663042,
+                    "title": "inoreader",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1729951652490,
+                        "title": "Innoreader – Build your own newsfeed",
+                        "icon": "https://logo.clearbit.com/www.innoreader.com",
+                        "url": "https://www.innoreader.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729951673721,
+                        "title": "Inoreader – Build your own newsfeed",
+                        "icon": "https://logo.clearbit.com/www.inoreader.com",
+                        "url": "https://www.inoreader.com/"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730258468480,
+                "title": "RSS源生成",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730258441917,
+                    "title": "RSS Anything",
+                    "icon": "https://logo.clearbit.com/rss.diffbot.com",
+                    "url": "https://rss.diffbot.com/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730266311685,
+            "title": "地图",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730266299341,
+                "title": "高德地图",
+                "icon": "https://logo.clearbit.com/ditu.amap.com",
+                "url": "https://ditu.amap.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730266314380,
+                "title": "腾讯地图",
+                "icon": "https://logo.clearbit.com/map.qq.com",
+                "url": "https://map.qq.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730266317820,
+                "title": "百度地图",
+                "icon": "https://logo.clearbit.com/map.baidu.com",
+                "url": "https://map.baidu.com/@12649521.59,4105848.27,12z"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730274804960,
+            "title": "笔记",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730274809518,
+                "title": "FlowUs息流官网-新一代知识管理与协同平台,在线文档笔记知识库,项目管理协作",
+                "icon": "https://logo.clearbit.com/flowus.cn",
+                "url": "https://flowus.cn/product"
+              },
+              {
+                "type": "link",
+                "addDate": 1730274824427,
+                "title": "信息来源",
+                "icon": "https://logo.clearbit.com/www.notion.so",
+                "url": "https://www.notion.so/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730274832875,
+                "title": "语雀，为每一个人提供优秀的文档和知识库工具",
+                "icon": "https://logo.clearbit.com/www.yuque.com",
+                "url": "https://www.yuque.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730274916540,
+                "title": "Verse - 面向未来的智能化生产力工具",
+                "icon": "https://logo.clearbit.com/verse-cdn.yinxiang.com",
+                "url": "https://verse-cdn.yinxiang.com/product/v/verse/index.html"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730511730759,
+            "title": "工具集",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730511716547,
+                "title": "新标签页",
+                "icon": "https://logo.clearbit.com/go.itab.link",
+                "url": "https://go.itab.link/#"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730523284328,
+            "title": "自然语言处理",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1729646451767,
+                "title": "HanLP | 在线演示",
+                "icon": "https://logo.clearbit.com/hanlp.hankcs.com",
+                "url": "https://hanlp.hankcs.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730524277717,
+                "title": "Explore | Fandom",
+                "icon": "https://logo.clearbit.com/www.fandom.com",
+                "url": "https://www.fandom.com/explore-zh?uselang=zh"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729604315258,
+        "title": "信息来源",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1729604330178,
+            "title": "信息源",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1729640430235,
+                "title": "商业",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640437963,
+                    "title": "虎嗅网",
+                    "icon": "https://logo.clearbit.com/www.huxiu.com",
+                    "url": "https://www.huxiu.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640416297,
+                    "title": "联商网-零售商业门户网站, 专业服务零售连锁业、商业地产",
+                    "icon": "https://logo.clearbit.com/www.linkshop.com",
+                    "url": "http://www.linkshop.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640472148,
+                "title": "人工智能",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640463899,
+                    "title": "量子位 | 追踪人工智能新趋势，报道科技行业新突破",
+                    "icon": "https://logo.clearbit.com/www.qbitai.com",
+                    "url": "https://www.qbitai.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640477778,
+                    "title": "jiqizhixin.com",
+                    "icon": "https://logo.clearbit.com/www.jiqizhixin.com",
+                    "url": "https://www.jiqizhixin.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640492418,
+                    "title": "智源社区_没有围墙的人工智能实验室",
+                    "icon": "https://logo.clearbit.com/hub.baai.ac.cn",
+                    "url": "https://hub.baai.ac.cn/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640457828,
+                "title": "科技",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640452137,
+                    "title": "36氪_让一部分人先看到未来",
+                    "icon": "https://logo.clearbit.com/www.36kr.com",
+                    "url": "https://www.36kr.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640484442,
+                    "title": "雷科技 - 关注智能生活和前沿科技",
+                    "icon": "https://logo.clearbit.com/www.leikeji.com",
+                    "url": "https://www.leikeji.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640597282,
+                    "title": "IT之家",
+                    "icon": "https://logo.clearbit.com/www.ithome.com",
+                    "url": "https://www.ithome.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640612306,
+                    "title": "爱范儿 · 让未来触手可及",
+                    "icon": "https://logo.clearbit.com/www.ifanr.com",
+                    "url": "https://www.ifanr.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640511170,
+                "title": "深度阅读",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640500233,
+                    "title": "三联生活周刊-一本杂志和他倡导的生活",
+                    "icon": "https://logo.clearbit.com/www.lifeweek.com.cn",
+                    "url": "https://www.lifeweek.com.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640518737,
+                    "title": "极昼的个人主页",
+                    "icon": "https://logo.clearbit.com/mp.sohu.com",
+                    "url": "https://mp.sohu.com/profile?xpt=MWJmNTdjZjYtMTRiMi00NWI2LWE2ZDMtY2I1NmRhNTNmNDQ0&_f=index_pagemp_1"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640540402,
+                "title": "开源情报",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640557465,
+                    "title": "Global Investigative Journalism Network",
+                    "icon": "https://logo.clearbit.com/gijn.org",
+                    "url": "https://gijn.org/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640563010,
+                    "title": "Public Intelligence",
+                    "icon": "https://logo.clearbit.com/publicintelligence.net",
+                    "url": "https://publicintelligence.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640565697,
+                    "title": "全球深度报道网",
+                    "icon": "https://logo.clearbit.com/zh.gijn.org",
+                    "url": "https://zh.gijn.org/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729646720367,
+                    "title": "Home | Sector035",
+                    "icon": "https://logo.clearbit.com/sector035.nl",
+                    "url": "https://sector035.nl/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640583955,
+                "title": "数码",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640577481,
+                    "title": "少数派 - 高效工作，品质生活",
+                    "icon": "https://logo.clearbit.com/sspai.com",
+                    "url": "https://sspai.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640590154,
+                    "title": "#UNTAG - We think, We solve, We share | #UNTAG",
+                    "icon": "https://logo.clearbit.com/utgd.net",
+                    "url": "https://utgd.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640605698,
+                    "title": "数字尾巴 分享美好数字生活",
+                    "icon": "https://logo.clearbit.com/www.dgtle.com",
+                    "url": "https://www.dgtle.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640625882,
+                "title": "餐饮",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640618801,
+                    "title": "餐饮产业链一站式服务平台-餐饮老板内参【官网】",
+                    "icon": "https://logo.clearbit.com/www.watcn.com",
+                    "url": "https://www.watcn.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640638804,
+                "title": "网络安全",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640631394,
+                    "title": "安全客 - 安全资讯平台",
+                    "icon": "https://logo.clearbit.com/www.anquanke.com",
+                    "url": "https://www.anquanke.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640645946,
+                    "title": "freebuf.com",
+                    "icon": "https://logo.clearbit.com/www.freebuf.com",
+                    "url": "https://www.freebuf.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640656794,
+                    "title": "安全脉搏 | 分享技术，悦享品质",
+                    "icon": "https://logo.clearbit.com/www.secpulse.com",
+                    "url": "https://www.secpulse.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640661266,
+                    "title": "动态 - 每日安全",
+                    "icon": "https://logo.clearbit.com/sec.today",
+                    "url": "https://sec.today/pulses/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640669890,
+                    "title": "知道创宇云防御-浏览器安全检查",
+                    "icon": "https://logo.clearbit.com/paper.seebug.org",
+                    "url": "https://paper.seebug.org/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730028132198,
+                "title": "其它",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730028080118,
+                    "title": "NewsNow | 最热",
+                    "icon": "https://logo.clearbit.com/newsnow.busiyi.world",
+                    "url": "https://newsnow.busiyi.world/c/hottest"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730283248134,
+                "title": "游戏-信息源",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730283233469,
+                    "title": "热门网络游戏综合讨论区 - 3DMGAME论坛 - Powered by Discuz!",
+                    "icon": "https://logo.clearbit.com/bbs.3dmgame.com",
+                    "url": "https://bbs.3dmgame.com/forum-135-1.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730283339612,
+                    "title": "NGA玩家社区 - NGA.CN",
+                    "icon": "https://logo.clearbit.com/nga.cn",
+                    "url": "https://nga.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730283384027,
+                    "title": "游民星空 - 大型单机游戏门户 提供特色单机游戏资讯、下载",
+                    "icon": "https://logo.clearbit.com/www.gamersky.com",
+                    "url": "https://www.gamersky.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730283407772,
+                    "title": "单机游戏_单机游戏下载_单机游戏门户_游侠网",
+                    "icon": "https://logo.clearbit.com/www.ali213.net",
+                    "url": "https://www.ali213.net/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729604335047,
+            "title": "数据源",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1729640263138,
+                "title": "大模型评测",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640245074,
+                    "title": "FlagEval - 首页",
+                    "icon": "https://logo.clearbit.com/flageval.baai.ac.cn",
+                    "url": "https://flageval.baai.ac.cn/#/home"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729640272018,
+                    "title": "OpenCompass司南 - 评测榜单",
+                    "icon": "https://logo.clearbit.com/rank.opencompass.org.cn",
+                    "url": "https://rank.opencompass.org.cn/home"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1728914685644,
+                "title": "wiki",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1728914699037,
+                    "title": "游戏",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1728914664687,
+                        "title": "bilibili游戏中心 - WIKI",
+                        "icon": "https://logo.clearbit.com/wiki.biligame.com",
+                        "url": "https://wiki.biligame.com/wiki/%E9%A6%96%E9%A1%B5"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1728914800265,
+                        "title": "灰机wiki - 北京嘉闻杰诺网络科技有限公司",
+                        "icon": "https://logo.clearbit.com/www.huijiwiki.com",
+                        "url": "https://www.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730029133397,
+                    "title": "wikiHow：你可以信赖的万事指南",
+                    "icon": "https://logo.clearbit.com/zh.wikihow.com",
+                    "url": "https://zh.wikihow.com/%E9%A6%96%E9%A1%B5"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730029265987,
+                    "title": "下厨房",
+                    "icon": "https://logo.clearbit.com/www.xiachufang.com",
+                    "url": "https://www.xiachufang.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730453729033,
+                "title": "网站流量",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730453706759,
+                    "title": "Similarweb PRO",
+                    "icon": "https://logo.clearbit.com/pro.similarweb.com",
+                    "url": "https://pro.similarweb.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640382643,
+                "title": "事件",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640376177,
+                    "title": "知微事见",
+                    "icon": "https://logo.clearbit.com/ef.zhiweidata.com",
+                    "url": "https://ef.zhiweidata.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730539466659,
+                "title": "指数",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730539452674,
+                    "title": "微热点",
+                    "icon": "https://logo.clearbit.com/m.wrd.cn",
+                    "url": "https://m.wrd.cn/home"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730539502483,
+                    "title": "算数指数-巨量算数",
+                    "icon": "https://logo.clearbit.com/trendinsight.oceanengine.com",
+                    "url": "https://trendinsight.oceanengine.com/arithmetic-index?type=1"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730539508154,
+                    "title": "百度指数",
+                    "icon": "https://logo.clearbit.com/index.baidu.com",
+                    "url": "https://index.baidu.com/v2/index.html#/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729604609825,
+                "title": "统计",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729604598593,
+                    "title": "国家数据",
+                    "icon": "https://logo.clearbit.com/data.stats.gov.cn",
+                    "url": "https://data.stats.gov.cn/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730171715338,
+                "title": "下载",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1730087402807,
+                    "title": "下书",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730087414554,
+                        "title": "免费小说网_校对小说_精校小说_全本小说_完结小说_TXT小说_无弹窗小说_无错小说网_好看的小说_免费小说",
+                        "icon": "https://logo.clearbit.com/www.12z.cn",
+                        "url": "http://www.12z.cn/index.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730087658833,
+                        "title": "奇书网-TXT电子书免费下载,TXT全集下载,全本,完本小说,完结小说",
+                        "icon": "https://logo.clearbit.com/www.qishu66.com",
+                        "url": "https://www.qishu66.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730427147422,
+                        "title": "得奇小说网-更新快不出错的免费小说阅读网",
+                        "icon": "https://logo.clearbit.com/www.deqixs.com",
+                        "url": "https://www.deqixs.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730427773359,
+                        "title": "灵境行者-卖报小郎君小说-最新章节无弹窗免费阅读-速读谷",
+                        "icon": "https://logo.clearbit.com/www.sudugu.com",
+                        "url": "https://www.sudugu.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730431218709,
+                        "title": "4020电子书 - 提供最新最全的Txt小说电子书下载。",
+                        "icon": "https://logo.clearbit.com/www.xwurexs.com",
+                        "url": "http://www.xwurexs.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730431222589,
+                        "title": "科幻·灵异 - 精校吧 - 免费精校小说-校对全本TXT小说下载网",
+                        "icon": "https://logo.clearbit.com/www.jingjiaoba.com",
+                        "url": "https://www.jingjiaoba.com/ke-huan-ling-yi"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730171697426,
+                    "title": "软件",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730171648304,
+                        "title": "应用宝官网-全网最新最热手机应用游戏下载",
+                        "icon": "https://logo.clearbit.com/sj.qq.com",
+                        "url": "https://sj.qq.com/"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730282563354,
+                    "title": "漫画",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730282550889,
+                        "title": "Kmoe [Kindle漫畫|Kobo漫畫|epub漫畫] [volmoe.com]",
+                        "icon": "https://logo.clearbit.com/volmoe.com",
+                        "url": "https://volmoe.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730282684856,
+                        "title": "漫自由mhx12_epub漫畫Kindle漫畫下载",
+                        "icon": "https://logo.clearbit.com/mhx12.com",
+                        "url": "https://mhx12.com/"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730378516149,
+                    "title": "软件",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730171595495,
+                        "title": "应用宝官网-全网最新最热手机应用游戏下载",
+                        "icon": "https://logo.clearbit.com/sj.qq.com",
+                        "url": "https://sj.qq.com/pcsem/download?ocpc=360-search&supply_id=2700300111&account_id=3418725111&plan_id=1606486456&group_id=318246990&keyword_id=2146037641683692274&creative_id=11600669430&qhclickid=e53c07b0fe398f13"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730087877507,
+                "title": "阅读",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1730277030518,
+                    "title": "书籍",
+                    "children": [
+                      {
+                        "type": "folder",
+                        "addDate": 1730448422750,
+                        "title": "官方",
+                        "children": [
+                          {
+                            "type": "folder",
+                            "addDate": 1730448469719,
+                            "title": "通用",
+                            "children": [
+                              {
+                                "type": "link",
+                                "addDate": 1730277132859,
+                                "title": "微信读书",
+                                "icon": "https://logo.clearbit.com/weread.qq.com",
+                                "url": "https://weread.qq.com/"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "folder",
+                            "addDate": 1730448438758,
+                            "title": "小说",
+                            "children": [
+                              {
+                                "type": "link",
+                                "addDate": 1730276953275,
+                                "title": "小说,番茄小说网_好看的小说尽在番茄小说官网",
+                                "icon": "https://logo.clearbit.com/fanqienovel.com",
+                                "url": "https://fanqienovel.com/"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1730276966291,
+                                "title": "小说作品在线阅读_起点全部小说大全-起点中文网",
+                                "icon": "https://logo.clearbit.com/www.qidian.com",
+                                "url": "https://www.qidian.com/all/"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1730448430393,
+                        "title": "第三方",
+                        "children": [
+                          {
+                            "type": "folder",
+                            "addDate": 1730448494919,
+                            "title": "通用",
+                            "children": []
+                          },
+                          {
+                            "type": "folder",
+                            "addDate": 1730448499104,
+                            "title": "小说",
+                            "children": [
+                              {
+                                "type": "link",
+                                "addDate": 1730087856465,
+                                "title": "铅笔小说_最值得书友收藏的网络小说阅读网",
+                                "icon": "https://logo.clearbit.com/www.23qb.com",
+                                "url": "https://www.23qb.com/"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1730470323948,
+                                "title": "聚小说-笔趣阁-小说网-全网唯一聚合书源平台",
+                                "icon": "https://logo.clearbit.com/www.juxiaoshuo.net",
+                                "url": "https://www.juxiaoshuo.net/"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730277050988,
+                    "title": "漫画",
+                    "children": [
+                      {
+                        "type": "folder",
+                        "addDate": 1730448522079,
+                        "title": "官方",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1730277006948,
+                            "title": "动漫 - 腾讯动漫官方网站 - 首页",
+                            "icon": "https://logo.clearbit.com/ac.qq.com",
+                            "url": "https://ac.qq.com/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730277054163,
+                            "title": "哔哩哔哩漫画 - bilibili 正版漫画平台",
+                            "icon": "https://logo.clearbit.com/manga.bilibili.com",
+                            "url": "https://manga.bilibili.com/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730449149213,
+                            "title": "baidu.com/link?url=mmqSuaDcwITKOh-GbzD-SeC-WVJKuEMb7WdSilpDIl_&wd=动漫之家&issp=1&f=8&ie=utf-8&rqlang=cn&tn=baiduhome_pg&inputT=2244",
+                            "icon": "https://logo.clearbit.com/www.baidu.com",
+                            "url": "https://www.baidu.com/link?url=mmqSuaDcwITKOh-GbzD-SeC-WVJKuEMb7WdSilpDIl_&wd=%E5%8A%A8%E6%BC%AB%E4%B9%8B%E5%AE%B6&issp=1&f=8&ie=utf-8&rqlang=cn&tn=baiduhome_pg&inputT=2244"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1730448526775,
+                        "title": "第三方",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1730282821623,
+                            "title": "漫画大全 - 包子漫画",
+                            "icon": "https://logo.clearbit.com/www.baozimh.net",
+                            "url": "https://www.baozimh.net/category"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730282798880,
+                            "title": "好国漫 - 免费漫画下拉式在线观看",
+                            "icon": "https://logo.clearbit.com/www.haoguoman.net",
+                            "url": "https://www.haoguoman.net/"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730365368868,
+                    "title": "动漫",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730365414780,
+                        "title": "OMOFun动漫-O站",
+                        "icon": "https://logo.clearbit.com/www.omofuns.cc",
+                        "url": "https://www.omofuns.cc/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730365485021,
+                        "title": "囧次元动漫－全网最新动漫资源－专注动漫的门户网站－樱花动漫",
+                        "icon": "https://logo.clearbit.com/9ciyuan.com",
+                        "url": "https://9ciyuan.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730365555429,
+                        "title": "番剧 - 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+                        "icon": "https://logo.clearbit.com/www.bilibili.com",
+                        "url": "https://www.bilibili.com/anime/?spm_id_from=333.1007.0.0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730471966699,
+                "title": "音乐",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730471958764,
+                    "title": "QQ音乐-千万正版音乐海量无损曲库新歌热歌天天畅听的高品质音乐平台！",
+                    "icon": "https://logo.clearbit.com/y.qq.com",
+                    "url": "https://y.qq.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730471968091,
+                    "title": "网易云音乐",
+                    "icon": "https://logo.clearbit.com/music.163.com",
+                    "url": "https://music.163.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730471970940,
+                    "title": "酷狗音乐 - 就是歌多！小说相声也很多！",
+                    "icon": "https://logo.clearbit.com/www.kugou.com",
+                    "url": "https://www.kugou.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730266284862,
+                "title": "点评",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730266243324,
+                    "title": "dianping.com",
+                    "icon": "https://logo.clearbit.com/www.dianping.com",
+                    "url": "https://www.dianping.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730471480100,
+                    "title": "首页 - 推书君",
+                    "icon": "https://logo.clearbit.com/www.tuishujun.com",
+                    "url": "https://www.tuishujun.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640686747,
+                "title": "冲突",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640696356,
+                    "title": "Institute for the Study of War",
+                    "icon": "https://logo.clearbit.com/www.understandingwar.org",
+                    "url": "https://www.understandingwar.org/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729646754582,
+                    "title": "ACLED (Armed Conflict Location and Event Data)",
+                    "icon": "https://logo.clearbit.com/acleddata.com",
+                    "url": "https://acleddata.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640338659,
+                "title": "天气",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640329658,
+                    "title": "Windy: Wind map & weather forecast",
+                    "icon": "https://logo.clearbit.com/www.windy.com",
+                    "url": "https://www.windy.com/?34.760,113.646,5"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640368172,
+                "title": "事实核查",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640356154,
+                    "title": "有据 | 国际新闻事实核查",
+                    "icon": "https://logo.clearbit.com/chinafactcheck.com",
+                    "url": "https://chinafactcheck.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1729640400428,
+                "title": "报告",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729640393514,
+                    "title": "镝数聚网站-权威数据 海量聚合",
+                    "icon": "https://logo.clearbit.com/www.dydata.io",
+                    "url": "https://www.dydata.io/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730266354837,
+                "title": "旅游",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730266338876,
+                    "title": "旅游攻略,自由行,自助游攻略,旅游社交分享网站 - 马蜂窝",
+                    "icon": "https://logo.clearbit.com/www.mafengwo.cn",
+                    "url": "https://www.mafengwo.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730266633132,
+                    "title": "携程旅行网:酒店预订,机票预订查询,旅游度假,商旅管理",
+                    "icon": "https://logo.clearbit.com/www.ctrip.com",
+                    "url": "https://www.ctrip.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730275067028,
+                    "title": "【去哪儿网】机票查询,特价机票,打折飞机票-去哪儿网Qunar.com",
+                    "icon": "https://logo.clearbit.com/flight.qunar.com",
+                    "url": "https://flight.qunar.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730283313119,
+                "title": "游戏-数据源",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730378051768,
+                    "title": "TapTap - 发现好游戏",
+                    "icon": "https://logo.clearbit.com/www.taptap.cn",
+                    "url": "https://www.taptap.cn/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730599513409,
+                "title": "房地产",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730599474465,
+                    "title": "首页 - 郑州市房屋租赁监管服务平台 -",
+                    "icon": "https://logo.clearbit.com/fwzl.zfbzj.zhengzhou.gov.cn",
+                    "url": "http://fwzl.zfbzj.zhengzhou.gov.cn:8080/rent/api/web/index.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730599561505,
+                    "title": "全国房地产门户|房地产网】-直播看房抢优惠-全国房天下",
+                    "icon": "https://logo.clearbit.com/www1.fang.com",
+                    "url": "https://www1.fang.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730599572881,
+                    "title": "郑州二手房房产网，郑州二手房出售，郑州买房购房交易信息 - 58安居客",
+                    "icon": "https://logo.clearbit.com/zhengzhou.anjuke.com",
+                    "url": "https://zhengzhou.anjuke.com/sale/?pi=sogou-cpc-zz-pinpai1&kwid={keywordid}&utm_term=%e9%83%91%e5%b7%9e%e5%ae%89%e5%b1%85%e5%ae%a2&qz_gdt=shncmzycaaaimftc6tnq"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730599603113,
+                    "title": "郑州房产网_郑州二手房|租房|新房|房地产信息网【郑州贝壳找房】",
+                    "icon": "https://logo.clearbit.com/zz.ke.com",
+                    "url": "https://zz.ke.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730365062807,
+                "title": "地震",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730365048629,
+                    "title": "中国地震台网——首页",
+                    "icon": "https://logo.clearbit.com/news.ceic.ac.cn",
+                    "url": "https://news.ceic.ac.cn/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729951225692,
+        "title": "平台",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1729951546203,
+            "title": "社交平台",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1729951213226,
+                "title": "微博 – 随时随地发现新鲜事",
+                "icon": "https://logo.clearbit.com/weibo.com",
+                "url": "https://weibo.com/"
+              },
+              {
+                "type": "folder",
+                "addDate": 1729994032102,
+                "title": "即刻",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729951321747,
+                    "title": "即刻-电脑版",
+                    "icon": "https://logo.clearbit.com/web-next.okjike.com",
+                    "url": "https://web-next.okjike.com/following"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729994084280,
+                    "title": "web.okjike.com",
+                    "icon": "https://logo.clearbit.com/web.okjike.com",
+                    "url": "https://web.okjike.com/login"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1729951329755,
+                "title": "今日头条",
+                "icon": "https://logo.clearbit.com/www.toutiao.com",
+                "url": "https://www.toutiao.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1729951335066,
+                "title": "豆瓣",
+                "icon": "https://logo.clearbit.com/www.douban.com",
+                "url": "https://www.douban.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1729951364850,
+                "title": "(64 封私信 / 91 条消息) 首页 - 知乎",
+                "icon": "https://logo.clearbit.com/www.zhihu.com",
+                "url": "https://www.zhihu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1729951377354,
+                "title": "百度贴吧——全球领先的中文社区",
+                "icon": "https://logo.clearbit.com/tieba.baidu.com",
+                "url": "https://tieba.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1729951467602,
+                "title": "LOFTER（乐乎） - 让兴趣，更有趣",
+                "icon": "https://logo.clearbit.com/www.lofter.com",
+                "url": "https://www.lofter.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730073749769,
+                "title": "小红书 - 你的生活指南",
+                "icon": "https://logo.clearbit.com/www.xiaohongshu.com",
+                "url": "https://www.xiaohongshu.com/explore"
+              },
+              {
+                "type": "link",
+                "addDate": 1730073797104,
+                "title": "精彩短视频-快手",
+                "icon": "https://logo.clearbit.com/www.kuaishou.com",
+                "url": "https://www.kuaishou.com/brilliant"
+              },
+              {
+                "type": "link",
+                "addDate": 1730073799736,
+                "title": "抖音-记录美好生活",
+                "icon": "https://logo.clearbit.com/www.douyin.com",
+                "url": "https://www.douyin.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730171749600,
+                "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+                "icon": "https://logo.clearbit.com/www.bilibili.com",
+                "url": "https://www.bilibili.com/?spm_id_from=333.976.0.0"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730420749480,
+            "title": "网络安全",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1730424353222,
+                "title": "社区",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730424333150,
+                    "title": "广场 - 发现更有料的网安圈",
+                    "icon": "https://logo.clearbit.com/wiki.freebuf.com",
+                    "url": "https://wiki.freebuf.com/page"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730420769119,
+                "title": "SRC",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730420716528,
+                    "title": "HackerOne | #1 Trusted Security Platform and Hacker Program",
+                    "icon": "https://logo.clearbit.com/www.hackerone.com",
+                    "url": "https://www.hackerone.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730420772798,
+                    "title": "补天 - 企业和白帽子共赢的漏洞响应平台，帮助企业建立SRC",
+                    "icon": "https://logo.clearbit.com/www.butian.net",
+                    "url": "https://www.butian.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730420776445,
+                    "title": "360众测平台",
+                    "icon": "https://logo.clearbit.com/zhongce.360.net",
+                    "url": "https://zhongce.360.net/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730421114766,
+            "title": "其它",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730421103933,
+                "title": "知识星球 | 深度连接铁杆粉丝，运营高品质社群，知识变现的工具",
+                "icon": "https://logo.clearbit.com/www.zsxq.com",
+                "url": "https://www.zsxq.com/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729640937483,
+        "title": "导航",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1729640910586,
+            "title": "信息来源",
+            "icon": "https://logo.clearbit.com/suave-tuck-504.notion.site",
+            "url": "https://suave-tuck-504.notion.site/11cecd0b0461804daaacd17d2874e695?v=11fecd0b04618008973f000c1b5d1733"
+          },
+          {
+            "type": "link",
+            "addDate": 1729952090529,
+            "title": "AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全",
+            "icon": "https://logo.clearbit.com/ai-bot.cn",
+            "url": "https://ai-bot.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729952220768,
+            "title": "最好的AI导航站和AI工具列表 - Toolify",
+            "icon": "https://logo.clearbit.com/www.toolify.ai",
+            "url": "https://www.toolify.ai/zh/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730163421518,
+            "title": "轻略应用（轻略加） - 在线应用工具大全",
+            "icon": "https://logo.clearbit.com/gonglue.qinggl.com",
+            "url": "https://gonglue.qinggl.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1730266080046,
+        "title": "购物",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1730266059405,
+            "title": "交易猫_手游交易平台_账号估值|手机游戏充值|网游|首充号|账号|装备交易网站",
+            "icon": "https://logo.clearbit.com/www.jiaoyimao.com",
+            "url": "https://www.jiaoyimao.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730266082813,
+            "title": "闲鱼 - 闲不住？上闲鱼！",
+            "icon": "https://logo.clearbit.com/www.goofish.com",
+            "url": "https://www.goofish.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730266083756,
+            "title": "京东 - 商品搜索 - 京东热卖",
+            "icon": "https://logo.clearbit.com/re.jd.com",
+            "url": "https://re.jd.com/search?keyword=%e4%ba%ac%e4%b8%9c&keywordid=172887082207&re_dcp=202m0QjIIg==&traffic_source=1004&enc=utf8&cu=true&utm_source=baidu-search&utm_medium=cpc&utm_campaign=t_262767352_baidusearch&utm_term=172887082207_0_58d28709fd2446c288b8f01ca482bfd8"
+          },
+          {
+            "type": "link",
+            "addDate": 1730266084956,
+            "title": "粮油米面_淘宝搜索",
+            "icon": "https://logo.clearbit.com/uland.taobao.com",
+            "url": "https://uland.taobao.com/sem/tbsearch?clk1=0da7dc69c0070e1e5f7499c2ecd1011e&keyword=%E7%B2%AE%E6%B2%B9%E7%B1%B3%E9%9D%A2&localImgKey=&page=1&q=%E7%B2%AE%E6%B2%B9%E7%B1%B3%E9%9D%A2&refpid=mm_2898300158_3078300397_115665800437&tab=all&upsId=0da7dc69c0070e1e5f7499c2ecd1011e"
+          }
+        ]
+      }
+    ]
+  }
+]
