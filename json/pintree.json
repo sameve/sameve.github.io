@@ -6,6 +6,20 @@
     "children": [
       {
         "type": "folder",
+        "addDate": 1730607894292,
+        "title": "常用",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1730607882753,
+            "title": "新标签页",
+            "icon": "https://logo.clearbit.com/go.itab.link",
+            "url": "https://go.itab.link/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "addDate": 1729604305906,
         "title": "工具",
         "children": [
@@ -600,13 +614,6 @@
                 "title": "HanLP | 在线演示",
                 "icon": "https://logo.clearbit.com/hanlp.hankcs.com",
                 "url": "https://hanlp.hankcs.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1730524277717,
-                "title": "Explore | Fandom",
-                "icon": "https://logo.clearbit.com/www.fandom.com",
-                "url": "https://www.fandom.com/explore-zh?uselang=zh"
               }
             ]
           }
@@ -933,6 +940,13 @@
                     "addDate": 1728914699037,
                     "title": "游戏",
                     "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730524277717,
+                        "title": "Explore | Fandom",
+                        "icon": "https://logo.clearbit.com/www.fandom.com",
+                        "url": "https://www.fandom.com/explore-zh?uselang=zh"
+                      },
                       {
                         "type": "link",
                         "addDate": 1728914664687,
@@ -1465,6 +1479,41 @@
                     "title": "TapTap - 发现好游戏",
                     "icon": "https://logo.clearbit.com/www.taptap.cn",
                     "url": "https://www.taptap.cn/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730599513409,
+                "title": "房地产",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730599474465,
+                    "title": "首页 - 郑州市房屋租赁监管服务平台 -",
+                    "icon": "https://logo.clearbit.com/fwzl.zfbzj.zhengzhou.gov.cn",
+                    "url": "http://fwzl.zfbzj.zhengzhou.gov.cn:8080/rent/api/web/index.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730599561505,
+                    "title": "全国房地产门户|房地产网】-直播看房抢优惠-全国房天下",
+                    "icon": "https://logo.clearbit.com/www1.fang.com",
+                    "url": "https://www1.fang.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730599572881,
+                    "title": "郑州二手房房产网，郑州二手房出售，郑州买房购房交易信息 - 58安居客",
+                    "icon": "https://logo.clearbit.com/zhengzhou.anjuke.com",
+                    "url": "https://zhengzhou.anjuke.com/sale/?pi=sogou-cpc-zz-pinpai1&kwid={keywordid}&utm_term=%e9%83%91%e5%b7%9e%e5%ae%89%e5%b1%85%e5%ae%a2&qz_gdt=shncmzycaaaimftc6tnq"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730599603113,
+                    "title": "郑州房产网_郑州二手房|租房|新房|房地产信息网【郑州贝壳找房】",
+                    "icon": "https://logo.clearbit.com/zz.ke.com",
+                    "url": "https://zz.ke.com/"
                   }
                 ]
               },
