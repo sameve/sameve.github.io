@@ -586,6 +586,13 @@
                 "title": "Verse - 面向未来的智能化生产力工具",
                 "icon": "https://logo.clearbit.com/verse-cdn.yinxiang.com",
                 "url": "https://verse-cdn.yinxiang.com/product/v/verse/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1730639306833,
+                "title": "我的文档 - 幕布",
+                "icon": "https://logo.clearbit.com/mubu.com",
+                "url": "https://mubu.com/app"
               }
             ]
           },
