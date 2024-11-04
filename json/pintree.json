@@ -999,6 +999,27 @@
                     ]
                   },
                   {
+                    "type": "folder",
+                    "addDate": 1730697184433,
+                    "title": "厨艺",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730029265987,
+                        "title": "下厨房",
+                        "icon": "https://logo.clearbit.com/www.xiachufang.com",
+                        "url": "https://www.xiachufang.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730696387327,
+                        "title": "美食天下_原创菜谱与美食生活社区，我所有的朋友都是吃货！",
+                        "icon": "https://logo.clearbit.com/www.meishichina.com",
+                        "url": "https://www.meishichina.com/"
+                      }
+                    ]
+                  },
+                  {
                     "type": "link",
                     "addDate": 1730029133397,
                     "title": "wikiHow：你可以信赖的万事指南",
@@ -1007,10 +1028,10 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1730029265987,
-                    "title": "下厨房",
-                    "icon": "https://logo.clearbit.com/www.xiachufang.com",
-                    "url": "https://www.xiachufang.com/"
+                    "addDate": 1730697331506,
+                    "title": "wikipedia",
+                    "icon": "https://logo.clearbit.com/wikipedia.org",
+                    "url": "http://wikipedia.org/"
                   }
                 ]
               },
