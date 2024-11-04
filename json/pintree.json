@@ -1436,7 +1436,7 @@
               {
                 "type": "folder",
                 "addDate": 1729640338659,
-                "title": "天气",
+                "title": "气象",
                 "children": [
                   {
                     "type": "link",
@@ -1444,6 +1444,13 @@
                     "title": "Windy: Wind map & weather forecast",
                     "icon": "https://logo.clearbit.com/www.windy.com",
                     "url": "https://www.windy.com/?34.760,113.646,5"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730690214347,
+                    "title": "台风路径",
+                    "icon": "https://logo.clearbit.com/typhoon.slt.zj.gov.cn",
+                    "url": "https://typhoon.slt.zj.gov.cn/"
                   }
                 ]
               },
