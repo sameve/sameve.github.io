@@ -972,6 +972,20 @@
                 "children": [
                   {
                     "type": "folder",
+                    "addDate": 1730698067777,
+                    "title": "通用",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730697331506,
+                        "title": "wikipedia",
+                        "icon": "https://logo.clearbit.com/wikipedia.org",
+                        "url": "http://wikipedia.org/"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
                     "addDate": 1728914699037,
                     "title": "游戏",
                     "children": [
@@ -1027,18 +1041,18 @@
                     ]
                   },
                   {
-                    "type": "link",
-                    "addDate": 1730029133397,
-                    "title": "wikiHow：你可以信赖的万事指南",
-                    "icon": "https://logo.clearbit.com/zh.wikihow.com",
-                    "url": "https://zh.wikihow.com/%E9%A6%96%E9%A1%B5"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1730697331506,
-                    "title": "wikipedia",
-                    "icon": "https://logo.clearbit.com/wikipedia.org",
-                    "url": "http://wikipedia.org/"
+                    "type": "folder",
+                    "addDate": 1730698080315,
+                    "title": "如何做",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730029133397,
+                        "title": "wikiHow：你可以信赖的万事指南",
+                        "icon": "https://logo.clearbit.com/zh.wikihow.com",
+                        "url": "https://zh.wikihow.com/%E9%A6%96%E9%A1%B5"
+                      }
+                    ]
                   }
                 ]
               },
