@@ -402,6 +402,27 @@
                         "url": "https://www.hisoman.com/"
                       }
                     ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730716922686,
+                    "title": "医疗",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730716897686,
+                        "title": "丁香搜索",
+                        "icon": "https://logo.clearbit.com/search.dxy.cn",
+                        "url": "https://search.dxy.cn/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730717154823,
+                        "title": "中国医药信息查询平台-国家权威认证全类型医药信息查询平台",
+                        "icon": "https://logo.clearbit.com/www.dayi.org.cn",
+                        "url": "https://www.dayi.org.cn/"
+                      }
+                    ]
                   }
                 ]
               }
@@ -1677,6 +1698,20 @@
                     "url": "https://www.appinn.com/"
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730716801453,
+                "title": "医疗",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730716779909,
+                    "title": "丁香园_医疗领域的连接者_丁香园生物医药科技网",
+                    "icon": "https://logo.clearbit.com/www.dxy.cn",
+                    "url": "https://www.dxy.cn/"
+                  }
+                ]
               }
             ]
           }
@@ -1845,6 +1880,20 @@
                 "title": "知识星球 | 深度连接铁杆粉丝，运营高品质社群，知识变现的工具",
                 "icon": "https://logo.clearbit.com/www.zsxq.com",
                 "url": "https://www.zsxq.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1730717017294,
+            "title": "医疗",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730717006054,
+                "title": "丁香园 - 医学交流社区，分享临床经验、病例讨论、考试科研、求职晋升经验",
+                "icon": "https://logo.clearbit.com/www.dxy.cn",
+                "url": "https://www.dxy.cn/bbs/newweb/pc/home"
               }
             ]
           }
