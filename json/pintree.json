@@ -290,6 +290,13 @@
                     "title": "问问小宇宙",
                     "icon": "https://logo.clearbit.com/ask.xiaoyuzhoufm.com",
                     "url": "https://ask.xiaoyuzhoufm.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730684513976,
+                    "title": "微博智搜（beta）",
+                    "icon": "https://logo.clearbit.com/ai.s.weibo.com",
+                    "url": "https://ai.s.weibo.com/web/other/"
                   }
                 ]
               },
@@ -773,6 +780,13 @@
                     "title": "Home | Sector035",
                     "icon": "https://logo.clearbit.com/sector035.nl",
                     "url": "https://sector035.nl/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730682112869,
+                    "title": "丁爸网-首页",
+                    "icon": "https://logo.clearbit.com/dingba.top",
+                    "url": "http://dingba.top/sy"
                   }
                 ]
               },
