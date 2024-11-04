@@ -6,6 +6,20 @@
     "children": [
       {
         "type": "folder",
+        "addDate": 1730607894292,
+        "title": "常用",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1730607882753,
+            "title": "新标签页",
+            "icon": "https://logo.clearbit.com/go.itab.link",
+            "url": "https://go.itab.link/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "addDate": 1729604305906,
         "title": "工具",
         "children": [
@@ -572,6 +586,13 @@
                 "title": "Verse - 面向未来的智能化生产力工具",
                 "icon": "https://logo.clearbit.com/verse-cdn.yinxiang.com",
                 "url": "https://verse-cdn.yinxiang.com/product/v/verse/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1730639306833,
+                "title": "我的文档 - 幕布",
+                "icon": "https://logo.clearbit.com/mubu.com",
+                "url": "https://mubu.com/app"
               }
             ]
           },
@@ -600,13 +621,6 @@
                 "title": "HanLP | 在线演示",
                 "icon": "https://logo.clearbit.com/hanlp.hankcs.com",
                 "url": "https://hanlp.hankcs.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1730524277717,
-                "title": "Explore | Fandom",
-                "icon": "https://logo.clearbit.com/www.fandom.com",
-                "url": "https://www.fandom.com/explore-zh?uselang=zh"
               }
             ]
           }
@@ -759,6 +773,13 @@
                     "title": "Home | Sector035",
                     "icon": "https://logo.clearbit.com/sector035.nl",
                     "url": "https://sector035.nl/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730682112869,
+                    "title": "丁爸网-首页",
+                    "icon": "https://logo.clearbit.com/dingba.top",
+                    "url": "http://dingba.top/sy"
                   }
                 ]
               },
@@ -933,6 +954,13 @@
                     "addDate": 1728914699037,
                     "title": "游戏",
                     "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730524277717,
+                        "title": "Explore | Fandom",
+                        "icon": "https://logo.clearbit.com/www.fandom.com",
+                        "url": "https://www.fandom.com/explore-zh?uselang=zh"
+                      },
                       {
                         "type": "link",
                         "addDate": 1728914664687,
@@ -1514,6 +1542,20 @@
                     "title": "中国地震台网——首页",
                     "icon": "https://logo.clearbit.com/news.ceic.ac.cn",
                     "url": "https://news.ceic.ac.cn/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730609786867,
+                "title": "应用",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730609761281,
+                    "title": "小众软件 - 分享免费、小巧、实用、有趣、绿色的软件",
+                    "icon": "https://logo.clearbit.com/www.appinn.com",
+                    "url": "https://www.appinn.com/"
                   }
                 ]
               }
