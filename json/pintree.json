@@ -229,74 +229,88 @@
                 "title": "AI搜索",
                 "children": [
                   {
-                    "type": "link",
-                    "addDate": 1729781971140,
-                    "title": "天工AI - 搜索更深度，阅读更多彩",
-                    "icon": "https://logo.clearbit.com/www.tiangong.cn",
-                    "url": "https://www.tiangong.cn/"
+                    "type": "folder",
+                    "addDate": 1730684916914,
+                    "title": "通用",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730126782812,
+                        "title": "心流AI助手",
+                        "icon": "https://logo.clearbit.com/iflow.cn",
+                        "url": "https://iflow.cn/?utm_source=ai-bot.cn"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729781971140,
+                        "title": "天工AI - 搜索更深度，阅读更多彩",
+                        "icon": "https://logo.clearbit.com/www.tiangong.cn",
+                        "url": "https://www.tiangong.cn/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729782068268,
+                        "title": "秘塔AI搜索",
+                        "icon": "https://logo.clearbit.com/metaso.cn",
+                        "url": "https://metaso.cn/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729782075916,
+                        "title": "Kimi.ai - 帮你看更大的世界",
+                        "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                        "url": "https://kimi.moonshot.cn/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729951924945,
+                        "title": "Felo - 你的免费AI智能搜索引擎",
+                        "icon": "https://logo.clearbit.com/felo.ai",
+                        "url": "https://felo.ai/search"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729951965641,
+                        "title": "360AI搜索",
+                        "icon": "https://logo.clearbit.com/so.360.com",
+                        "url": "https://so.360.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730126635868,
+                        "title": "Globe Explorer",
+                        "icon": "https://logo.clearbit.com/explorer.globe.engineer",
+                        "url": "https://explorer.globe.engineer/?utm_source=ai-bot.cn"
+                      }
+                    ]
                   },
                   {
-                    "type": "link",
-                    "addDate": 1729782068268,
-                    "title": "秘塔AI搜索",
-                    "icon": "https://logo.clearbit.com/metaso.cn",
-                    "url": "https://metaso.cn/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729782075916,
-                    "title": "Kimi.ai - 帮你看更大的世界",
-                    "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
-                    "url": "https://kimi.moonshot.cn/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729951924945,
-                    "title": "Felo - 你的免费AI智能搜索引擎",
-                    "icon": "https://logo.clearbit.com/felo.ai",
-                    "url": "https://felo.ai/search"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729951965641,
-                    "title": "360AI搜索",
-                    "icon": "https://logo.clearbit.com/so.360.com",
-                    "url": "https://so.360.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1730126635868,
-                    "title": "Globe Explorer",
-                    "icon": "https://logo.clearbit.com/explorer.globe.engineer",
-                    "url": "https://explorer.globe.engineer/?utm_source=ai-bot.cn"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1730126700268,
-                    "title": "知乎直答",
-                    "icon": "https://logo.clearbit.com/zhida.zhihu.com",
-                    "url": "https://zhida.zhihu.com/?utm_source=ai-bot.cn"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1730126782812,
-                    "title": "心流AI助手",
-                    "icon": "https://logo.clearbit.com/iflow.cn",
-                    "url": "https://iflow.cn/?utm_source=ai-bot.cn"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1730127039307,
-                    "title": "问问小宇宙",
-                    "icon": "https://logo.clearbit.com/ask.xiaoyuzhoufm.com",
-                    "url": "https://ask.xiaoyuzhoufm.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1730684513976,
-                    "title": "微博智搜（beta）",
-                    "icon": "https://logo.clearbit.com/ai.s.weibo.com",
-                    "url": "https://ai.s.weibo.com/web/other/"
+                    "type": "folder",
+                    "addDate": 1730684928338,
+                    "title": "平台自用",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730126700268,
+                        "title": "知乎直答",
+                        "icon": "https://logo.clearbit.com/zhida.zhihu.com",
+                        "url": "https://zhida.zhihu.com/?utm_source=ai-bot.cn"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730127039307,
+                        "title": "问问小宇宙",
+                        "icon": "https://logo.clearbit.com/ask.xiaoyuzhoufm.com",
+                        "url": "https://ask.xiaoyuzhoufm.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730684513976,
+                        "title": "微博智搜（beta）",
+                        "icon": "https://logo.clearbit.com/ai.s.weibo.com",
+                        "url": "https://ai.s.weibo.com/web/other/"
+                      }
+                    ]
                   }
                 ]
               },
