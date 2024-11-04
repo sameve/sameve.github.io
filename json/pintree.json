@@ -1479,6 +1479,13 @@
                         "url": "http://www.12379.cn/"
                       }
                     ]
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730690860507,
+                    "title": "天气网",
+                    "icon": "https://logo.clearbit.com/www.weather.com.cn",
+                    "url": "https://www.weather.com.cn/"
                   }
                 ]
               },
