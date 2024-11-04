@@ -1451,6 +1451,34 @@
                     "title": "台风路径",
                     "icon": "https://logo.clearbit.com/typhoon.slt.zj.gov.cn",
                     "url": "https://typhoon.slt.zj.gov.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730690567002,
+                    "title": "国家气象信息中心-中国气象数据网",
+                    "icon": "https://logo.clearbit.com/data.cma.cn",
+                    "url": "https://data.cma.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730690632267,
+                    "title": "关注阴晴冷暖，气象一直为你",
+                    "icon": "https://logo.clearbit.com/www.nmc.cn",
+                    "url": "http://www.nmc.cn/"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1730690740516,
+                    "title": "预警信息",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1730690733147,
+                        "title": "国家突发事件预警信息发布网",
+                        "icon": "https://logo.clearbit.com/www.12379.cn",
+                        "url": "http://www.12379.cn/"
+                      }
+                    ]
                   }
                 ]
               },
