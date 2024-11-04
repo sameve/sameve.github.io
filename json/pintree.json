@@ -590,7 +590,7 @@
               {
                 "type": "link",
                 "addDate": 1730274824427,
-                "title": "信息来源",
+                "title": "Notion",
                 "icon": "https://logo.clearbit.com/www.notion.so",
                 "url": "https://www.notion.so/"
               },
@@ -1051,6 +1051,20 @@
                         "title": "wikiHow：你可以信赖的万事指南",
                         "icon": "https://logo.clearbit.com/zh.wikihow.com",
                         "url": "https://zh.wikihow.com/%E9%A6%96%E9%A1%B5"
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1730698146887,
+                        "title": "编程",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1730698137863,
+                            "title": "菜鸟教程 - 学的不仅是技术，更是梦想！",
+                            "icon": "https://logo.clearbit.com/www.runoob.com",
+                            "url": "https://www.runoob.com/"
+                          }
+                        ]
                       }
                     ]
                   }
