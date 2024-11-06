@@ -1116,6 +1116,13 @@
                     "title": "知微事见",
                     "icon": "https://logo.clearbit.com/ef.zhiweidata.com",
                     "url": "https://ef.zhiweidata.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730865080654,
+                    "title": "读数据_清博热点",
+                    "icon": "https://logo.clearbit.com/hot.gsdata.cn",
+                    "url": "https://hot.gsdata.cn/news"
                   }
                 ]
               },
@@ -1931,6 +1938,27 @@
             "title": "轻略应用（轻略加） - 在线应用工具大全",
             "icon": "https://logo.clearbit.com/gonglue.qinggl.com",
             "url": "https://gonglue.qinggl.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730865390847,
+            "title": "- 清博指数",
+            "icon": "https://logo.clearbit.com/hao.gsdata.cn",
+            "url": "http://hao.gsdata.cn/dsj/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730865429790,
+            "title": "舆情网址导航 - 清博指数",
+            "icon": "https://logo.clearbit.com/hao.gsdata.cn",
+            "url": "http://hao.gsdata.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730865436230,
+            "title": "- 清博指数",
+            "icon": "https://logo.clearbit.com/hao.gsdata.cn",
+            "url": "http://hao.gsdata.cn/xmt/"
           }
         ]
       },
