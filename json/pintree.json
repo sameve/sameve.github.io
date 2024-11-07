@@ -780,6 +780,20 @@
                     "title": "极昼的个人主页",
                     "icon": "https://logo.clearbit.com/mp.sohu.com",
                     "url": "https://mp.sohu.com/profile?xpt=MWJmNTdjZjYtMTRiMi00NWI2LWE2ZDMtY2I1NmRhNTNmNDQ0&_f=index_pagemp_1"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730953173568,
+                    "title": "腾讯研究院",
+                    "icon": "https://logo.clearbit.com/www.tisi.org",
+                    "url": "https://www.tisi.org/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730953202136,
+                    "title": "阿里研究院",
+                    "icon": "https://logo.clearbit.com/www.aliresearch.com",
+                    "url": "http://www.aliresearch.com/cn/index"
                   }
                 ]
               },
@@ -1165,6 +1179,27 @@
                     "title": "国家数据",
                     "icon": "https://logo.clearbit.com/data.stats.gov.cn",
                     "url": "https://data.stats.gov.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730939921310,
+                    "title": "我们的数据世界",
+                    "icon": "https://logo.clearbit.com/ourworldindata.org",
+                    "url": "https://ourworldindata.org/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730942468797,
+                    "title": "World Bank Open Data | Data",
+                    "icon": "https://logo.clearbit.com/data.worldbank.org.cn",
+                    "url": "https://data.worldbank.org.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730942671706,
+                    "title": "UNdata",
+                    "icon": "https://logo.clearbit.com/data.un.org",
+                    "url": "https://data.un.org/"
                   }
                 ]
               },
@@ -1354,6 +1389,13 @@
                                 "title": "聚小说-笔趣阁-小说网-全网唯一聚合书源平台",
                                 "icon": "https://logo.clearbit.com/www.juxiaoshuo.net",
                                 "url": "https://www.juxiaoshuo.net/"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1730960481083,
+                                "title": "顶点小说_顶点中文免费阅读网",
+                                "icon": "https://logo.clearbit.com/www.ddyucshu.cc",
+                                "url": "https://www.ddyucshu.cc/"
                               }
                             ]
                           }
@@ -1598,6 +1640,20 @@
                     "title": "镝数聚网站-权威数据 海量聚合",
                     "icon": "https://logo.clearbit.com/www.dydata.io",
                     "url": "https://www.dydata.io/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730940185533,
+                    "title": "艾媒网-全球新经济行业数据分析报告发布平台",
+                    "icon": "https://logo.clearbit.com/www.iimedia.cn",
+                    "url": "https://www.iimedia.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730940198015,
+                    "title": "艾瑞网_互联网数据资讯聚合平台",
+                    "icon": "https://logo.clearbit.com/www.iresearch.cn",
+                    "url": "https://www.iresearch.cn/"
                   }
                 ]
               },
@@ -1717,6 +1773,41 @@
                     "title": "丁香园_医疗领域的连接者_丁香园生物医药科技网",
                     "icon": "https://logo.clearbit.com/www.dxy.cn",
                     "url": "https://www.dxy.cn/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730939859121,
+                "title": "其它",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730939837688,
+                    "title": "适用于任何设计程序的全球地图文件 |CADMAPPER",
+                    "icon": "https://logo.clearbit.com/cadmapper.com",
+                    "url": "https://cadmapper.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1730943358420,
+                "title": "交通",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730943723409,
+                    "title": "郑州 城市实时交通详情",
+                    "icon": "https://logo.clearbit.com/report.amap.com",
+                    "url": "https://report.amap.com/detail.do?city=410100"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730943850683,
+                    "title": "百度地图交通出行大数据平台",
+                    "icon": "https://logo.clearbit.com/jiaotong.baidu.com",
+                    "url": "https://jiaotong.baidu.com/congestion/city/urbanrealtime/"
                   }
                 ]
               }
@@ -1942,7 +2033,7 @@
           {
             "type": "link",
             "addDate": 1730865390847,
-            "title": "- 清博指数",
+            "title": "大数据网站导航",
             "icon": "https://logo.clearbit.com/hao.gsdata.cn",
             "url": "http://hao.gsdata.cn/dsj/"
           },
@@ -1956,9 +2047,30 @@
           {
             "type": "link",
             "addDate": 1730865436230,
-            "title": "- 清博指数",
+            "title": "新媒体网址导航",
             "icon": "https://logo.clearbit.com/hao.gsdata.cn",
             "url": "http://hao.gsdata.cn/xmt/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730943172471,
+            "title": "Open Data Inception - A Comprehensive List of 2600+ #OpenData Portals in the World",
+            "icon": "https://logo.clearbit.com/opendatainception.io",
+            "url": "https://opendatainception.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730943428467,
+            "title": "主页 |IPUMS",
+            "icon": "https://logo.clearbit.com/www.ipums.org",
+            "url": "https://www.ipums.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730951090809,
+            "title": "联合国可持续发展署 — 合作伙伴",
+            "icon": "https://logo.clearbit.com/unstats.un.org",
+            "url": "https://unstats.un.org/home/nso_sites/"
           }
         ]
       },
