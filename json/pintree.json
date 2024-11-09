@@ -281,6 +281,13 @@
                         "title": "Globe Explorer",
                         "icon": "https://logo.clearbit.com/explorer.globe.engineer",
                         "url": "https://explorer.globe.engineer/?utm_source=ai-bot.cn"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1731149546811,
+                        "title": "百度搜索AI探索版",
+                        "icon": "https://logo.clearbit.com/think.baidu.com",
+                        "url": "https://think.baidu.com/"
                       }
                     ]
                   },
@@ -563,6 +570,13 @@
                     "title": "RSS Anything",
                     "icon": "https://logo.clearbit.com/rss.diffbot.com",
                     "url": "https://rss.diffbot.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1731151620928,
+                    "title": "RssWebAll - 抓取任意网页的内容生成 RSS 订阅源",
+                    "icon": "https://logo.clearbit.com/rssweball.top",
+                    "url": "https://rssweball.top/#/"
                   }
                 ]
               }
@@ -1310,6 +1324,33 @@
                         "title": "应用宝官网-全网最新最热手机应用游戏下载",
                         "icon": "https://logo.clearbit.com/sj.qq.com",
                         "url": "https://sj.qq.com/pcsem/download?ocpc=360-search&supply_id=2700300111&account_id=3418725111&plan_id=1606486456&group_id=318246990&keyword_id=2146037641683692274&creative_id=11600669430&qhclickid=e53c07b0fe398f13"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1731149326629,
+                    "title": "浏览器插件商店",
+                    "children": [
+                      {
+                        "type": "folder",
+                        "addDate": 1731149339889,
+                        "title": "官方",
+                        "children": []
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1731149344885,
+                        "title": "第三方",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1731149313619,
+                            "title": "Crx搜搜 - 一个牛X的扩展和应用商店",
+                            "icon": "https://logo.clearbit.com/www.crxsoso.com",
+                            "url": "https://www.crxsoso.com/"
+                          }
+                        ]
                       }
                     ]
                   }
