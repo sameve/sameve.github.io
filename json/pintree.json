@@ -150,7 +150,7 @@
               {
                 "type": "folder",
                 "addDate": 1730207985680,
-                "title": "智能体创造平台",
+                "title": "智能体平台",
                 "children": [
                   {
                     "type": "link",
@@ -172,6 +172,13 @@
                     "title": "腾讯元器",
                     "icon": "https://logo.clearbit.com/yuanqi.tencent.com",
                     "url": "https://yuanqi.tencent.com/agent-shop"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1731159322735,
+                    "title": "AI助手中心",
+                    "icon": "https://logo.clearbit.com/inspiration.baidu.com",
+                    "url": "https://inspiration.baidu.com/app?isNewPage=0"
                   }
                 ]
               }
@@ -1509,6 +1516,27 @@
                             "title": "好国漫 - 免费漫画下拉式在线观看",
                             "icon": "https://logo.clearbit.com/www.haoguoman.net",
                             "url": "https://www.haoguoman.net/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1731154088454,
+                            "title": "分类 - 包子漫画",
+                            "icon": "https://logo.clearbit.com/cn.baozimh.com",
+                            "url": "https://cn.baozimh.com/classify?type=all&region=all&state=all&filter=%2a&page=1"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1731154116361,
+                            "title": "天才小毒妃漫画_大角虫漫画_王牌校草漫画_指染成婚漫画-古风漫画网-古风漫画",
+                            "icon": "https://logo.clearbit.com/m.gufengmh9.com",
+                            "url": "https://m.gufengmh9.com/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1731154121772,
+                            "title": "最新更新50部漫画-笨狗漫画",
+                            "icon": "https://logo.clearbit.com/m.bengou.co",
+                            "url": "https://m.bengou.co/new/"
                           }
                         ]
                       }
