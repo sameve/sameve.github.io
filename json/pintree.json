@@ -335,6 +335,13 @@
                 "children": [
                   {
                     "type": "link",
+                    "addDate": 1731200726949,
+                    "title": "抖音搜索",
+                    "icon": "https://logo.clearbit.com/so.douyin.com",
+                    "url": "https://so.douyin.com/"
+                  },
+                  {
+                    "type": "link",
                     "addDate": 1730284947660,
                     "title": "百度一下，你就知道",
                     "icon": "https://logo.clearbit.com/www.baidu.com",
@@ -361,6 +368,20 @@
                 "addDate": 1730284920237,
                 "title": "垂直搜索引擎",
                 "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1731200785541,
+                    "title": "平台自用",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1731200941547,
+                        "title": "微博搜索",
+                        "icon": "https://logo.clearbit.com/s.weibo.com",
+                        "url": "https://s.weibo.com/"
+                      }
+                    ]
+                  },
                   {
                     "type": "folder",
                     "addDate": 1730284886413,
@@ -684,6 +705,27 @@
                 "title": "HanLP | 在线演示",
                 "icon": "https://logo.clearbit.com/hanlp.hankcs.com",
                 "url": "https://hanlp.hankcs.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1731210778345,
+            "title": "卫星",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1731210717010,
+                "title": "热带风暴 Man-yi 直播 | Zoom Earth",
+                "icon": "https://logo.clearbit.com/zoom.earth",
+                "url": "https://zoom.earth/storms/man-yi-2024/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731210779217,
+                "title": "9日 11月，11:50 | 13.9°北 144.2°東 | Zoom Earth",
+                "icon": "https://logo.clearbit.com/zoom.earth",
+                "url": "https://zoom.earth/maps/satellite/#view=13.94729,144.20055,8z/date=2024-11-09,11:50,+8"
               }
             ]
           }
@@ -1037,6 +1079,13 @@
                         "title": "wikipedia",
                         "icon": "https://logo.clearbit.com/wikipedia.org",
                         "url": "http://wikipedia.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1731228678485,
+                        "title": "百度百科_全球领先的中文百科全书",
+                        "icon": "https://logo.clearbit.com/baike.baidu.com",
+                        "url": "https://baike.baidu.com/"
                       }
                     ]
                   },
@@ -1856,6 +1905,13 @@
                     "title": "丁香园_医疗领域的连接者_丁香园生物医药科技网",
                     "icon": "https://logo.clearbit.com/www.dxy.cn",
                     "url": "https://www.dxy.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1731159631679,
+                    "title": "百度健康 - 你身边的健康管家",
+                    "icon": "https://logo.clearbit.com/jiankang.baidu.com",
+                    "url": "https://jiankang.baidu.com/widescreen/home"
                   }
                 ]
               },
@@ -1926,6 +1982,41 @@
                     "title": "适用于任何设计程序的全球地图文件 |CADMAPPER",
                     "icon": "https://logo.clearbit.com/cadmapper.com",
                     "url": "https://cadmapper.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1731229336109,
+                "title": "商品价格指数",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1731238926653,
+                    "title": "商品价格网",
+                    "icon": "https://logo.clearbit.com/price.mofcom.gov.cn",
+                    "url": "https://price.mofcom.gov.cn/price_2021/pricequotation/price.shtml"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1731239606315,
+                    "title": "农产品",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1731229313148,
+                        "title": "全国农产品批发市场价格信息系统",
+                        "icon": "https://logo.clearbit.com/pfsc.agri.cn",
+                        "url": "https://pfsc.agri.cn/#/indexPage"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1731229351988,
+                        "title": "重点农产品市场信息平台",
+                        "icon": "https://logo.clearbit.com/ncpscxx.moa.gov.cn",
+                        "url": "https://ncpscxx.moa.gov.cn/#/queryDataMain/wholesalePrice?item=3&id=1"
+                      }
+                    ]
                   }
                 ]
               }
