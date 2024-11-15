@@ -222,6 +222,20 @@
                 "addDate": 1729943805286,
                 "title": "云电脑",
                 "children": []
+              },
+              {
+                "type": "folder",
+                "addDate": 1731549158459,
+                "title": "云游戏",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1731549147624,
+                    "title": "腾讯先锋-腾讯官方云游戏平台—原腾讯先游",
+                    "icon": "https://logo.clearbit.com/gamer.qq.com",
+                    "url": "https://gamer.qq.com/"
+                  }
+                ]
               }
             ]
           },
@@ -2338,13 +2352,6 @@
             "url": "https://www.tmall.com/"
           }
         ]
-      },
-      {
-        "type": "link",
-        "addDate": 1731286490290,
-        "title": "植物大战僵尸杂交版 植物大战僵尸杂交版v2.6.1版本121项修改器+全通关存档一键替换+pak解包工具+游戏整合 Mod V2.6.1 下载- 3DM Mod站",
-        "icon": "https://logo.clearbit.com/mod.3dmgame.com",
-        "url": "https://mod.3dmgame.com/mod/210714"
       }
     ]
   }
