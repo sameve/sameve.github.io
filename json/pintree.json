@@ -2047,6 +2047,20 @@
                     ]
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1731856225108,
+                "title": "股市",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1731856215788,
+                    "title": "百度股市通-科技让投资更简单",
+                    "icon": "https://logo.clearbit.com/gushitong.baidu.com",
+                    "url": "https://gushitong.baidu.com/"
+                  }
+                ]
               }
             ]
           }
