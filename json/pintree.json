@@ -93,6 +93,13 @@
                         "title": "通义tongyi.ai_你的全能AI助手-通义千问",
                         "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
                         "url": "https://tongyi.aliyun.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1732067329681,
+                        "title": "跃问",
+                        "icon": "https://logo.clearbit.com/yuewen.cn",
+                        "url": "https://yuewen.cn/chats/new"
                       }
                     ]
                   },
@@ -1074,6 +1081,13 @@
                     "title": "OpenCompass司南 - 评测榜单",
                     "icon": "https://logo.clearbit.com/rank.opencompass.org.cn",
                     "url": "https://rank.opencompass.org.cn/home"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732067433041,
+                    "title": "LiveBench 系列",
+                    "icon": "https://logo.clearbit.com/livebench.ai",
+                    "url": "https://livebench.ai/#/"
                   }
                 ]
               },
