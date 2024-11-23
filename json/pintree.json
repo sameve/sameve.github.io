@@ -749,6 +749,41 @@
                 "url": "https://zoom.earth/maps/satellite/#view=13.94729,144.20055,8z/date=2024-11-09,11:50,+8"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1732365415522,
+            "title": "其它",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1732365397777,
+                "title": "Diffbot |构建新闻源",
+                "icon": "https://logo.clearbit.com/www.diffbot.com",
+                "url": "https://www.diffbot.com/solutions/news-monitoring/feed/?"
+              },
+              {
+                "type": "link",
+                "addDate": 1732365477793,
+                "title": "Diffbot | Test Drive Extract",
+                "icon": "https://logo.clearbit.com/www.diffbot.com",
+                "url": "https://www.diffbot.com/products/extract/testdrive/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732365640281,
+                "title": "Diffbot |构建和理解自然语言",
+                "icon": "https://logo.clearbit.com/www.diffbot.com",
+                "url": "https://www.diffbot.com/products/natural-language/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732365653793,
+                "title": "库姆",
+                "icon": "https://logo.clearbit.com/kumu.io",
+                "url": "https://kumu.io/"
+              }
+            ]
           }
         ]
       },
@@ -920,6 +955,13 @@
                     "title": "丁爸网-首页",
                     "icon": "https://logo.clearbit.com/dingba.top",
                     "url": "http://dingba.top/sy"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732146592589,
+                    "title": "EPCYBER - Osint 暗网， 暗网提示， 中国 Osint",
+                    "icon": "https://logo.clearbit.com/epcyber.com",
+                    "url": "https://epcyber.com/blog"
                   }
                 ]
               },
@@ -1004,6 +1046,13 @@
                     "title": "知道创宇云防御-浏览器安全检查",
                     "icon": "https://logo.clearbit.com/paper.seebug.org",
                     "url": "https://paper.seebug.org/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732183027616,
+                    "title": "Electronic Frontier Foundation | Defending your rights in the digital world",
+                    "icon": "https://logo.clearbit.com/www.eff.org",
+                    "url": "https://www.eff.org/"
                   }
                 ]
               },
