@@ -479,6 +479,27 @@
                         "url": "https://www.dayi.org.cn/"
                       }
                     ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1732411185317,
+                    "title": "智库",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1732411169487,
+                        "title": "中国智库索引",
+                        "icon": "https://logo.clearbit.com/ctti.nju.edu.cn",
+                        "url": "https://ctti.nju.edu.cn/index.do"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1732417894061,
+                        "title": "RAND 提供客观的研究服务和公共政策分析 |兰特",
+                        "icon": "https://logo.clearbit.com/www.rand.org",
+                        "url": "https://www.rand.org/"
+                      }
+                    ]
                   }
                 ]
               }
@@ -1102,6 +1123,20 @@
                     "title": "单机游戏_单机游戏下载_单机游戏门户_游侠网",
                     "icon": "https://logo.clearbit.com/www.ali213.net",
                     "url": "https://www.ali213.net/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1732406708363,
+                "title": "智库",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1732406695072,
+                    "title": "Carnegie Endowment for International Peace | Carnegie Endowment for International Peace",
+                    "icon": "https://logo.clearbit.com/carnegieendowment.org",
+                    "url": "https://carnegieendowment.org/?lang=en"
                   }
                 ]
               }
