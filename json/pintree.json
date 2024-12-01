@@ -491,13 +491,6 @@
                         "title": "中国智库索引",
                         "icon": "https://logo.clearbit.com/ctti.nju.edu.cn",
                         "url": "https://ctti.nju.edu.cn/index.do"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1732417894061,
-                        "title": "RAND 提供客观的研究服务和公共政策分析 |兰特",
-                        "icon": "https://logo.clearbit.com/www.rand.org",
-                        "url": "https://www.rand.org/"
                       }
                     ]
                   }
@@ -803,6 +796,13 @@
                 "title": "库姆",
                 "icon": "https://logo.clearbit.com/kumu.io",
                 "url": "https://kumu.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1733023892334,
+                "title": "海豹聪聪 | 专业历史时间线收集整理工具",
+                "icon": "https://logo.clearbit.com/www.wiseal.cn",
+                "url": "https://www.wiseal.cn/"
               }
             ]
           }
@@ -1137,6 +1137,27 @@
                     "title": "Carnegie Endowment for International Peace | Carnegie Endowment for International Peace",
                     "icon": "https://logo.clearbit.com/carnegieendowment.org",
                     "url": "https://carnegieendowment.org/?lang=en"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732417894061,
+                    "title": "RAND 提供客观的研究服务和公共政策分析 |兰特",
+                    "icon": "https://logo.clearbit.com/www.rand.org",
+                    "url": "https://www.rand.org/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1732624903197,
+                "title": "医疗",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1732624884867,
+                    "title": "首页 - ProMED - ProMED-mail",
+                    "icon": "https://logo.clearbit.com/promedmail.org",
+                    "url": "https://promedmail.org/"
                   }
                 ]
               }
@@ -2157,6 +2178,20 @@
                     "title": "百度股市通-科技让投资更简单",
                     "icon": "https://logo.clearbit.com/gushitong.baidu.com",
                     "url": "https://gushitong.baidu.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1733023886967,
+                "title": "历史",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1733023878279,
+                    "title": "全历史",
+                    "icon": "https://logo.clearbit.com/www.allhistory.com",
+                    "url": "https://www.allhistory.com/"
                   }
                 ]
               }
