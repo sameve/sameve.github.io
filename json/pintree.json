@@ -8,7 +8,15 @@
         "type": "folder",
         "addDate": 1730607894292,
         "title": "常用",
-        "children": []
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1730607882753,
+            "title": "新标签页",
+            "icon": "https://logo.clearbit.com/go.itab.link",
+            "url": "https://go.itab.link/"
+          }
+        ]
       },
       {
         "type": "folder",
