@@ -8,15 +8,7 @@
         "type": "folder",
         "addDate": 1730607894292,
         "title": "常用",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1730607882753,
-            "title": "新标签页",
-            "icon": "https://logo.clearbit.com/go.itab.link",
-            "url": "https://go.itab.link/"
-          }
-        ]
+        "children": []
       },
       {
         "type": "folder",
@@ -2192,6 +2184,27 @@
                     "title": "全历史",
                     "icon": "https://logo.clearbit.com/www.allhistory.com",
                     "url": "https://www.allhistory.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1733056497576,
+                "title": "榜单",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1733056509599,
+                    "title": "播客",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1733056477991,
+                        "title": "中文播客榜",
+                        "icon": "https://logo.clearbit.com/xyzrank.com",
+                        "url": "https://xyzrank.com/#/"
+                      }
+                    ]
                   }
                 ]
               }
