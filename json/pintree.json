@@ -221,6 +221,13 @@
                     "title": "桃心云",
                     "icon": "https://logo.clearbit.com/h5.taoxinyun.com",
                     "url": "https://h5.taoxinyun.com/#/index"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1733395942440,
+                    "title": "天翼云手机",
+                    "icon": "https://logo.clearbit.com/pm.ctyun.cn",
+                    "url": "https://pm.ctyun.cn/#/home"
                   }
                 ]
               },
@@ -803,6 +810,13 @@
                 "title": "海豹聪聪 | 专业历史时间线收集整理工具",
                 "icon": "https://logo.clearbit.com/www.wiseal.cn",
                 "url": "https://www.wiseal.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1733566273946,
+                "title": "立即从新闻文章中删除付费墙 |PaywallBuster",
+                "icon": "https://logo.clearbit.com/paywallbuster.com",
+                "url": "https://paywallbuster.com/"
               }
             ]
           }
@@ -1471,6 +1485,13 @@
                         "title": "贼吧网-TXT小说,电子书下载,txt电子书免费下载,全本精校不忽悠",
                         "icon": "https://logo.clearbit.com/www.zei8.vip",
                         "url": "https://www.zei8.vip/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733200392897,
+                        "title": "24h搜书 - AI免费电子书下载",
+                        "icon": "https://logo.clearbit.com/book.daohangxie.com",
+                        "url": "https://book.daohangxie.com/"
                       }
                     ]
                   },
@@ -1756,6 +1777,13 @@
                         "title": "番剧 - 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
                         "icon": "https://logo.clearbit.com/www.bilibili.com",
                         "url": "https://www.bilibili.com/anime/?spm_id_from=333.1007.0.0"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733200281737,
+                        "title": "樱之空动漫 - 樱花之空中舞一夜❀动漫在线播放网站・skr.cc",
+                        "icon": "https://logo.clearbit.com/skr.skr3.cc",
+                        "url": "https://skr.skr3.cc:666/"
                       }
                     ]
                   }
@@ -2215,6 +2243,41 @@
                     ]
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1733792715325,
+                "title": "非遗",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1733792697644,
+                    "title": "中国非物质文化遗产网·中国非物质文化遗产数字博物馆",
+                    "icon": "https://logo.clearbit.com/www.ihchina.cn",
+                    "url": "https://www.ihchina.cn/#page1"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1733926689950,
+                "title": "招聘",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1733926668503,
+                    "title": "BOSS直聘-找工作上BOSS直聘直接谈！招聘求职找工作！",
+                    "icon": "https://logo.clearbit.com/www.zhipin.com",
+                    "url": "https://www.zhipin.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1733926718380,
+                    "title": "求职_找工作_招聘_2024年招聘信息-智联招聘",
+                    "icon": "https://logo.clearbit.com/www.zhaopin.com",
+                    "url": "https://www.zhaopin.com/"
+                  }
+                ]
               }
             ]
           }
@@ -2476,6 +2539,13 @@
             "title": "联合国可持续发展署 — 合作伙伴",
             "icon": "https://logo.clearbit.com/unstats.un.org",
             "url": "https://unstats.un.org/home/nso_sites/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733146202686,
+            "title": "About | bcattools",
+            "icon": "https://logo.clearbit.com/bellingcat.gitbook.io",
+            "url": "https://bellingcat.gitbook.io/toolkit"
           }
         ]
       },
