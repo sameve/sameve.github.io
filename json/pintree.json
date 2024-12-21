@@ -1933,6 +1933,27 @@
                     "title": "有据 | 国际新闻事实核查",
                     "icon": "https://logo.clearbit.com/chinafactcheck.com",
                     "url": "https://chinafactcheck.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1734770254645,
+                    "title": "明查——澎湃新闻全球事实核查平台",
+                    "icon": "https://logo.clearbit.com/www.thepaperfactcheck.cn",
+                    "url": "https://www.thepaperfactcheck.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1734777892521,
+                    "title": "政治事实",
+                    "icon": "https://logo.clearbit.com/www.politifact.com",
+                    "url": "https://www.politifact.com/?spm=3e711c3f.2ef5001f.0.0.1e557242Jjz9NM"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1734777926273,
+                    "title": "完整事实",
+                    "icon": "https://logo.clearbit.com/fullfact.org",
+                    "url": "https://fullfact.org/?spm=3e711c3f.2ef5001f.0.0.1e557242Jjz9NM"
                   }
                 ]
               },
