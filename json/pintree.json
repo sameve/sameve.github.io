@@ -2220,6 +2220,20 @@
                         "url": "https://ncpscxx.moa.gov.cn/#/queryDataMain/wholesalePrice?item=3&id=1"
                       }
                     ]
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1734781614340,
+                    "title": "中国价格信息网",
+                    "icon": "https://logo.clearbit.com/www.chinaprice.cn",
+                    "url": "https://www.chinaprice.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1734825060894,
+                    "title": "商务预报",
+                    "icon": "https://logo.clearbit.com/cif.mofcom.gov.cn",
+                    "url": "https://cif.mofcom.gov.cn/cif/html/"
                   }
                 ]
               },
