@@ -878,6 +878,13 @@
                     "title": "智源社区_没有围墙的人工智能实验室",
                     "icon": "https://logo.clearbit.com/hub.baai.ac.cn",
                     "url": "https://hub.baai.ac.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1735357859636,
+                    "title": "AIbase基地 - 让更多人看到未来 通往AGI之路",
+                    "icon": "https://logo.clearbit.com/www.aibase.com",
+                    "url": "https://www.aibase.com/zh"
                   }
                 ]
               },
@@ -2185,6 +2192,13 @@
                     "title": "领导留言板-人民网",
                     "icon": "https://logo.clearbit.com/liuyan.people.com.cn",
                     "url": "https://liuyan.people.com.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1735188217292,
+                    "title": "直播中国",
+                    "icon": "https://logo.clearbit.com/livechina.cctv.com",
+                    "url": "https://livechina.cctv.com/"
                   }
                 ]
               },
@@ -2318,6 +2332,20 @@
                     "title": "求职_找工作_招聘_2024年招聘信息-智联招聘",
                     "icon": "https://logo.clearbit.com/www.zhaopin.com",
                     "url": "https://www.zhaopin.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1735298925528,
+                "title": "泄露",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1735298811757,
+                    "title": "Find public records and leaks - Library of Leaks",
+                    "icon": "https://logo.clearbit.com/search.libraryofleaks.org",
+                    "url": "https://search.libraryofleaks.org/"
                   }
                 ]
               }
