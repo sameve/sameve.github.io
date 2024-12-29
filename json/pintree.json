@@ -1179,6 +1179,13 @@
                     "title": "首页 - ProMED - ProMED-mail",
                     "icon": "https://logo.clearbit.com/promedmail.org",
                     "url": "https://promedmail.org/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1735390873604,
+                    "title": "中国疾病预防控制中心",
+                    "icon": "https://logo.clearbit.com/www.chinacdc.cn",
+                    "url": "https://www.chinacdc.cn/jksj/jksj04_14275/"
                   }
                 ]
               }
