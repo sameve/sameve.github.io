@@ -747,6 +747,13 @@
                 "title": "HanLP | 在线演示",
                 "icon": "https://logo.clearbit.com/hanlp.hankcs.com",
                 "url": "https://hanlp.hankcs.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736563068826,
+                "title": "科技文献知识AI引擎",
+                "icon": "https://logo.clearbit.com/sciengine.las.ac.cn",
+                "url": "http://sciengine.las.ac.cn/NER_CN#"
               }
             ]
           },
