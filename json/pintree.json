@@ -826,6 +826,34 @@
                 "url": "https://paywallbuster.com/"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1736740404188,
+            "title": "数据处理",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1736740392666,
+                "title": "数据分析-SPSSPRO-免费专业的在线数据分析平台",
+                "icon": "https://logo.clearbit.com/www.spsspro.com",
+                "url": "https://www.spsspro.com/analysis/index"
+              },
+              {
+                "type": "link",
+                "addDate": 1736740431730,
+                "title": "在线数据分析网站_bi工具_分析有趣,决策有据-九数云BI",
+                "icon": "https://logo.clearbit.com/www.jiushuyun.com",
+                "url": "https://www.jiushuyun.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736740654642,
+                "title": "ABI一站式数据分析平台",
+                "icon": "https://logo.clearbit.com/yxabi.esensoft.com",
+                "url": "http://yxabi.esensoft.com/abi/eportal/pcportal/portal.do?id=2023FMY&original=true&loginid=demo&pw=%7Bfe01ce2a7fbac8fafaed7c982a04e229%7D"
+              }
+            ]
           }
         ]
       },
@@ -2213,6 +2241,13 @@
                     "title": "直播中国",
                     "icon": "https://logo.clearbit.com/livechina.cctv.com",
                     "url": "https://livechina.cctv.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1736740563850,
+                    "title": "Kaggle：您的机器学习和数据科学社区",
+                    "icon": "https://logo.clearbit.com/www.kaggle.com",
+                    "url": "https://www.kaggle.com/"
                   }
                 ]
               },
