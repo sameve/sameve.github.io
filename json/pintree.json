@@ -852,6 +852,27 @@
                 "title": "ABI一站式数据分析平台",
                 "icon": "https://logo.clearbit.com/yxabi.esensoft.com",
                 "url": "http://yxabi.esensoft.com/abi/eportal/pcportal/portal.do?id=2023FMY&original=true&loginid=demo&pw=%7Bfe01ce2a7fbac8fafaed7c982a04e229%7D"
+              },
+              {
+                "type": "link",
+                "addDate": 1736811320782,
+                "title": "Business Intelligence and Analytics Software | Tableau",
+                "icon": "https://logo.clearbit.com/www.tableau.com",
+                "url": "https://www.tableau.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736811326790,
+                "title": "Power BI - 数据可视化 | Microsoft Power Platform",
+                "icon": "https://logo.clearbit.com/www.microsoft.com",
+                "url": "https://www.microsoft.com/zh-cn/power-platform/products/power-bi"
+              },
+              {
+                "type": "link",
+                "addDate": 1736811331574,
+                "title": "DataFocus 企业大数据BI分析系统，让数据分析像搜索一样简单",
+                "icon": "https://logo.clearbit.com/www.datafocus.ai",
+                "url": "https://www.datafocus.ai/"
               }
             ]
           }
