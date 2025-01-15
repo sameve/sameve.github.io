@@ -2418,6 +2418,27 @@
                     "url": "https://search.libraryofleaks.org/"
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1736936137768,
+                "title": "数码",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1736936146457,
+                    "title": "手机",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1736936124791,
+                        "title": "新机_百度搜索",
+                        "icon": "https://logo.clearbit.com/www.baidu.com",
+                        "url": "https://www.baidu.com/s?word=%E6%96%B0%E6%9C%BA"
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }
